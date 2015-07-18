@@ -1,0 +1,48 @@
+header {
+  margin-bottom: 10px;
+  width: 100%;
+
+  img {
+    max-width: 120px;
+    max-height: 120px;
+    margin: 4px;
+  }
+}
+
+md-list-item {
+  &.ng-enter {
+    animation: bounceIn 1s;
+  }
+
+  &.ng-leave {
+    animation: bounceOut 1s;
+  }
+
+  &.ng-move {
+    animation: jello 1s;
+  }
+
+  /**
+   * Stagger Leave (hide) animation
+   */
+  &.ng-leave-stagger {
+      /* this will have a 100ms delay between each successive leave animation */
+      animation-delay: 0.2s;
+
+      /* in case the stagger doesn't work then these two values
+       must be set to 0 to avoid an accidental CSS inheritance */
+      animation-duration: 0s;
+  }
+
+  /**
+   * Stagger ENTER ANIMATION
+   */
+  &.ng-enter-stagger {
+      /* this will have a 100ms delay between each successive enter animation */
+      animation-delay: 0.2s;
+
+      /* in case the stagger doesn't work then these two values
+       must be set to 0 to avoid an accidental CSS inheritance */
+      animation-duration: 0s;
+  }
+}

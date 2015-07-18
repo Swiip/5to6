@@ -1,5 +1,5 @@
 <!doctype html>
-<html ng-app="5to6">
+<html id="5to6" ng-app="5to6" ng-controller="AppController">
   <head>
     <meta charset="utf-8">
     <title>5to6</title>
@@ -21,7 +21,8 @@
     <!-- endbuild -->
   </head>
   <body>
-    <div ng-include="'app/main/main.html'"></div>
+
+    <ng-viewport class="view"></ng-viewport>
 
     <!-- build:js(src) scripts/vendor.js -->
     <!-- bower:js -->

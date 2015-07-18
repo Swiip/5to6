@@ -1,0 +1,21 @@
+<section layout="column" layout-align="center center">
+  <md-toolbar layout="row" layout-align="center center" class="md-tall" md-scroll-shrink="true">
+    <md-input-container md-theme="dark" class="md-icon-float">
+      <label>Search in BreweryDB</label>
+      <md-icon md-svg-src="assets/images/icons/ic_search_black_24px.svg" class="name"></md-icon>
+      <input ng-model="brewery" type="search">
+    </md-input-container>
+    <img src="assets/images/badge.png">
+  </md-toolbar>
+  <md-content>
+    <md-list>
+      <md-list-item ng-repeat="brewery in list.breweries | filter:search">
+        <a ng-link="detail({id: brewery.id})">
+          <md-card>
+            <img ng-src="{{brewery.images.large}}" class="md-avatar" ng-animate-ref="{{brewery.id}}">
+          </md-card>
+        </a>
+      </md-list-item>
+    </md-list>
+  </md-content>
+</section>

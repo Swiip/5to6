@@ -2,6 +2,11 @@
   "name": "5to6",
   "version": "0.0.0",
   "dependencies": {
+    "angular-animate": "^1.4.1",
+    "angular-aria": "^1.4.1",
+    "angular-material": "^0.10.0",
+    "angular-new-router": "^0.5.3",
+    "angularjs": "0.0.1"
   },
   "scripts": {
     "test": "gulp test"

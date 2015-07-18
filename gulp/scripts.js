@@ -15,7 +15,7 @@ function webpack(watch, callback) {
       preLoaders: [{ test: /\.js$/, exclude: /node_modules/, loader: 'jshint-loader'}],
       loaders: [{ test: /\.js$/, exclude: /node_modules/, loader: 'babel-loader'}]
     },
-    output: { filename: 'index.module.js' }
+    output: { filename: 'index.js' }
   };
 
   if(watch) {

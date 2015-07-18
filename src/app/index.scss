@@ -4,6 +4,30 @@ html {
   font-family: 'Roboto Slab', serif;
 }
 
+
+
+
+
+//ng-viewport {
+  .ng-enter {
+    animation: fadeIn .4s;
+    position: absolute;
+    left: 0;
+    right: 0;
+  }
+
+  .ng-leave {
+    animation: fadeOut .4s;
+    position: absolute;
+    left: 0;
+    right: 0;
+  }
+//}
+
+.md-avatar.ng-anchor {
+  transition: .2s linear all;
+}
+
 /**
  *  Do not remove this comments bellow. It's the markers used by gulp-inject to inject
  *  all your sass files automatically
