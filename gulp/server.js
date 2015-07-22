@@ -1,17 +1,26 @@
 'use strict';
 
 var path = require('path');
+var fs = require('fs');
+
 var gulp = require('gulp');
 var conf = require('./conf');
+
+var babel = require('babel-core');
 
 var browserSync = require('browser-sync');
 var browserSyncSpa = require('browser-sync-spa');
 
 var util = require('util');
 
-var middleware = require('./proxy');
-
 function browserSyncInit(baseDir, browser) {
+  var code = babel.transformFileSync("rest/index.js", {
+    optional: [ 'runtime' ],
+    stage: 1
+  }).code;
+  fs.writeFileSync('rest/babel/index.js', code);
+  var middleware = require('../rest/babel/index');
+
   browser = browser === undefined ? 'default' : browser;
 
   var routes = null;
@@ -21,18 +30,13 @@ function browserSyncInit(baseDir, browser) {
     };
   }
 
-  var server = {
-    baseDir: baseDir,
-    routes: routes
-  };
-
-  if(middleware.length > 0) {
-    server.middleware = middleware;
-  }
-
   browserSync.instance = browserSync.init({
     startPath: '/',
-    server: server,
+    server: {
+      baseDir: baseDir,
+      routes: routes,
+      middleware: middleware
+    },
     browser: browser
   });
 }

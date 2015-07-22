@@ -18,13 +18,3 @@
   }
 
 })();
-
-
-/********************
-cFBlWc //Chimay
-5ac2lB //Leffe
-huKquc //Maredsous
-KE3f43 //Rochefort
-QkdgSV //Affligem
-
-*********************/
