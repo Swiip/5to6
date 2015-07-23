@@ -1,6 +1,10 @@
-<section layout="column" layout-align="center center">
-  <img ng-src="{{detail.brewery.images.large}}" class="md-avatar" ng-animate-ref="{{detail.brewery.id}}">
-  <div class="md-list-item-text">
+<section class="detail" layout="column" layout-align="center center">
+  <md-button ng-link="list">Back</md-button>
+
+  <!--<img ng-src="assets/images/breweries/5ac2lB.jpg" class="logo" ng-animate-ref="5ac2lB">-->
+  <img ng-src="assets/images/breweries/{{detail.brewery.id}}.jpg" class="logo" ng-animate-ref="{{detail.brewery.id}}">
+
+  <section class="md-whiteframe-z2">
     <h3>{{detail.brewery.name}}</h3>
-  </div>
+  </section>
 </section>

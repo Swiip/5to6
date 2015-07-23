@@ -3,7 +3,7 @@
     <md-input-container md-theme="dark" class="md-icon-float">
       <label>Search in BreweryDB</label>
       <md-icon md-svg-src="assets/images/icons/ic_search_black_24px.svg" class="name"></md-icon>
-      <input ng-model="brewery" type="search">
+      <input ng-model="search" type="search">
     </md-input-container>
     <img src="assets/images/badge.png">
   </md-toolbar>
@@ -11,8 +11,9 @@
     <md-list>
       <md-list-item ng-repeat="brewery in list.breweries | filter:search">
         <a ng-link="detail({id: brewery.id})">
-          <md-card>
-            <img ng-src="{{brewery.images.large}}" class="md-avatar" ng-animate-ref="{{brewery.id}}">
+          <md-card style="position: relative;">
+            <img ng-src="assets/images/breweries/{{brewery.id}}.jpg" class="logo" ng-animate-ref="{{brewery.id}}">
+            <!--<img ng-src="assets/images/breweries/{{brewery.id}}-logo.png" style="position: absolute; top: 10px; right: 10px; height: 100px; width: 100px;">-->
           </md-card>
         </a>
       </md-list-item>

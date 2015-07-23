@@ -1,33 +1,25 @@
 (function() {
   'use strict';
 
+  /** @ngInject */
+  function ListController($q, breweryService) {
+    this.$q = $q;
+    this.breweryService = breweryService;
+  }
+
+  ListController.prototype.canActivate = function() {
+    var vm = this;
+
+    return vm.$q(function(resolve, reject) {
+      return vm.breweryService.getList(function(breweries) {
+        vm.breweries = breweries;
+        resolve();
+      });
+    });
+  }
+
   angular
     .module('5to6')
     .controller('ListController', ListController);
-
-  console.log('define list controller');
-
-  /** @ngInject */
-  function ListController(breweryService) {
-    var vm = this;
-
-    vm.pageNumber = -1;
-    vm.breweries = [];
-
-    console.log('coucou list controller');
-
-    vm.load = function(callback) {
-      vm.pageNumber++;
-      breweryService.getPage(vm.pageNumber, function(breweries) {
-        console.log('coucou');
-        vm.breweries = vm.breweries.concat(breweries);
-        if(callback) {
-          callback();
-        }
-      });
-    };
-
-    vm.load();
-  }
 
 })();

@@ -4,27 +4,21 @@ html {
   font-family: 'Roboto Slab', serif;
 }
 
+.view.ng-enter {
+  animation: fadeIn .4s;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
 
+.view.ng-leave {
+  animation: fadeOut .4s;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
 
-
-
-//ng-viewport {
-  .ng-enter {
-    animation: fadeIn .4s;
-    position: absolute;
-    left: 0;
-    right: 0;
-  }
-
-  .ng-leave {
-    animation: fadeOut .4s;
-    position: absolute;
-    left: 0;
-    right: 0;
-  }
-//}
-
-.md-avatar.ng-anchor {
+.logo.ng-anchor {
   transition: .2s linear all;
 }
 
