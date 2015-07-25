@@ -1,28 +1,21 @@
-(function() {
+/** @ngInject */
+export function DetailController($q, $routeParams, BreweryService) {
   'use strict';
+  var vm = this;
 
-  /** @ngInject */
-  function DetailController($q, $routeParams, breweryService) {
-    var vm = this;
+  vm.$q = $q;
+  vm.$routeParams = $routeParams;
+  vm.BreweryService = BreweryService;
+}
 
-    vm.$q = $q;
-    vm.$routeParams = $routeParams;
-    vm.breweryService = breweryService;
-  }
+DetailController.prototype.canActivate = function() {
+  'use strict';
+  var vm = this;
 
-  DetailController.prototype.canActivate = function() {
-    var vm = this;
-
-    return vm.$q(function(resolve) {
-      return vm.breweryService.getOne(vm.$routeParams.id, function(brewery) {
-        vm.brewery = brewery;
-        resolve();
-      });
+  return vm.$q(function(resolve) {
+    return vm.BreweryService.getOne(vm.$routeParams.id, function(brewery) {
+      vm.brewery = brewery;
+      resolve();
     });
-  };
-
-  angular
-    .module('5to6')
-    .controller('DetailController', DetailController);
-
-})();
+  });
+};
