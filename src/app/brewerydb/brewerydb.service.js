@@ -1,26 +1,19 @@
 /** @ngInject */
 export class BreweryService {
-  constructor($q, $http) {
-    this.breweryHost = '/brewerydb';
-
-    Object.assign(this, {$q, $http});
+  constructor($http) {
+    Object.assign(this, { $http, breweryHost: '/brewerydb' });
   }
 
-  getList() {
-    return this.$http.get(`${this.breweryHost}/breweries`)
-      .then(result => result.data);
+  async getList() {
+    let result = await this.$http.get(`${this.breweryHost}/breweries`);
+    return result.data;
   }
 
-  getOne(id) {
-    let brewery;
-    return this.$http.get(`${this.breweryHost}/breweries/${id}`)
-      .then(resultBrewery => {
-        brewery = resultBrewery.data;
-        return this.$http.get(`${this.breweryHost}/breweries/${id}/beers`);
-      })
-      .then(resultBeers => {
-        brewery.beers = resultBeers.data;
-        return brewery;
-      });
+  async getOne(id) {
+    let resultBrewery = await this.$http.get(`${this.breweryHost}/breweries/${id}`);
+    let brewery = resultBrewery.data;
+    let resultBeers = await this.$http.get(`${this.breweryHost}/breweries/${id}/beers`);
+    brewery.beers = resultBeers.data;
+    return brewery;
   }
 }
