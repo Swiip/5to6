@@ -1,21 +1,13 @@
-/** @ngInject */
-export function DetailController($q, $routeParams, BreweryService) {
-  'use strict';
-  var vm = this;
+export class DetailController {
+  /** @ngInject */
+  constructor($q, $routeParams, BreweryService) {
+    Object.assign(this, {$q, $routeParams, BreweryService});
+  }
 
-  vm.$q = $q;
-  vm.$routeParams = $routeParams;
-  vm.BreweryService = BreweryService;
+  canActivate() {
+    return this.BreweryService.getOne(this.$routeParams.id)
+      .then(brewery => {
+        this.brewery = brewery;
+      });
+  }
 }
-
-DetailController.prototype.canActivate = function() {
-  'use strict';
-  var vm = this;
-
-  return vm.$q(function(resolve) {
-    return vm.BreweryService.getOne(vm.$routeParams.id, function(brewery) {
-      vm.brewery = brewery;
-      resolve();
-    });
-  });
-};

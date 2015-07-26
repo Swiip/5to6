@@ -1,20 +1,13 @@
 /** @ngInject */
-export function ListController($q, BreweryService) {
-  'use strict';
-  var vm = this;
+export class ListController {
+  constructor($q, BreweryService) {
+    Object.assign(this, {$q, BreweryService});
+  }
 
-  vm.$q = $q;
-  vm.BreweryService = BreweryService;
+  canActivate() {
+    return this.BreweryService.getList()
+      .then(breweries => {
+        this.breweries = breweries;
+      });
+  }
 }
-
-ListController.prototype.canActivate = function() {
-  'use strict';
-  var vm = this;
-
-  return vm.$q(function(resolve) {
-    return vm.BreweryService.getList(function(breweries) {
-      vm.breweries = breweries;
-      resolve();
-    });
-  });
-};
