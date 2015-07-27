@@ -14,7 +14,7 @@ function webpack(watch, callback) {
     module: {
       preLoaders: [{ test: /\.js$/, exclude: /node_modules/, loader: 'eslint-loader'}],
       loaders: [{ test: /\.js$/, exclude: /node_modules/, loader: 'babel-loader', query: {
-        //optional: ['runtime'],
+        optional: ['runtime'],
         stage: 1
       }}]
     },
