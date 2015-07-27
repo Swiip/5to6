@@ -8,16 +8,12 @@
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
     <!-- build:css({.tmp/serve,src}) styles/vendor.css -->
-    <link rel="stylesheet" href="app/vendor.css">
-    <!-- bower:css -->
-    <!-- run `gulp inject` to automatically populate bower styles dependencies -->
-    <!-- endbower -->
+    <link rel="stylesheet" href="/node_modules/angular-material/angular-material.css">
+    <link rel="stylesheet" href="/node_modules/animate.css/animate.css">
     <!-- endbuild -->
 
     <!-- build:css({.tmp/serve,src}) styles/app.css -->
-    <!-- inject:css -->
-    <!-- css files will be automatically insert here -->
-    <!-- endinject -->
+    <link rel="stylesheet" href="app/index.css">
     <!-- endbuild -->
   </head>
   <body>
@@ -25,16 +21,16 @@
     <ng-viewport class="view"></ng-viewport>
 
     <!-- build:js(src) scripts/vendor.js -->
-    <!-- bower:js -->
-    <!-- run `gulp inject` to automatically populate bower script dependencies -->
-    <!-- endbower -->
+    <script src="/node_modules/angular/angular.js"></script>
+    <script src="/node_modules/angular-touch/angular-touch.js"></script>
+    <script src="/node_modules/angular-animate/angular-animate.js"></script>
+    <script src="/node_modules/angular-aria/angular-aria.js"></script>
+    <script src="/node_modules/angular-material/angular-material.js"></script>
+    <script src="/node_modules/angular-new-router/dist/router.es5.js"></script>
     <!-- endbuild -->
 
     <!-- build:js({.tmp/serve,.tmp/partials}) scripts/app.js -->
-    <!-- inject:js -->
-    <!-- js files will be automatically insert here -->
-    <!-- endinject -->
-    <!-- <script src="bower_components/sw-toolbox/companion.js" data-service-worker="service-worker.js?2"></script> -->
+    <script src="app/index.js"></script>
 
     <!-- inject:partials -->
     <!-- angular templates will be automatically converted in js and inserted here -->

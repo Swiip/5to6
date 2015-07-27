@@ -2,14 +2,14 @@ header {
   margin-bottom: 10px;
   width: 100%;
 
-  /*img {
+  img {
     max-width: 120px;
     max-height: 120px;
     margin: 4px;
-  }*/
+  }
 }
 
-/*md-list-item {
+md-list-item {
   &.ng-enter {
     animation: bounceIn 1s;
   }
@@ -39,4 +39,4 @@ header {
       //in case the stagger doesn't work then these two values must be set to 0 to avoid an accidental CSS inheritance
       animation-duration: 0s;
   }
-}*/
+}

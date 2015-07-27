@@ -8,7 +8,6 @@ var browserSync = require('browser-sync');
 
 var $ = require('gulp-load-plugins')();
 
-var wiredep = require('wiredep').stream;
 var _ = require('lodash');
 
 gulp.task('styles', function () {
@@ -32,19 +31,8 @@ gulp.task('styles', function () {
     addRootSlash: false
   };
 
-  var indexFilter = $.filter('index.scss');
-  var vendorFilter = $.filter('vendor.scss');
-
-  return gulp.src([
-    path.join(conf.paths.src, '/app/index.scss'),
-    path.join(conf.paths.src, '/app/vendor.scss')
-  ])
-    .pipe(indexFilter)
+  return gulp.src(path.join(conf.paths.src, '/app/index.scss'))
     .pipe($.inject(injectFiles, injectOptions))
-    .pipe(indexFilter.restore())
-    .pipe(vendorFilter)
-    .pipe(wiredep(_.extend({}, conf.wiredep)))
-    .pipe(vendorFilter.restore())
     .pipe($.sourcemaps.init())
     .pipe($.sass(sassOptions)).on('error', conf.errorHandler('Sass'))
     .pipe($.autoprefixer()).on('error', conf.errorHandler('Autoprefixer'))
