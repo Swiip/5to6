@@ -14,6 +14,7 @@
   }
 
   /** @ngInject */
+  /*eslint "angular/ng_module_getter": 0, "angular/ng_di": 0*/
   function AppController($router) {
     $router.config([
       { path: '/', redirectTo: '/list' },
