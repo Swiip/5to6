@@ -1,1 +1,320 @@
-[{"id":"Ql6BWb","name":"Chimay Cinq Cents (Tripel)","nameDisplay":"Chimay Cinq Cents (Tripel)","description":"Chimay Tripel, with its typical golden colour, its slightly hazy appearance and its fine head is especially characterised by its aroma which results from an agreeable combination of fresh hops and yeast. The beer\u2019s flavour, as sensed in the mouth, comes from the smell of hops: above all it is the fruity notes of muscat and raisins that give this beer a particularly attractive aroma. The aroma complements the touch of bitterness. There is no acidity, but an after-bitterness which melts in the mouth. This top fermented Trappist beer, refermented in the bottle, is not pasteurised.","abv":"8","glasswareId":8,"availableId":2,"styleId":59,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Ql6BWb\/upload_Vfte8E-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Ql6BWb\/upload_Vfte8E-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Ql6BWb\/upload_Vfte8E-large.png"},"status":"verified","statusDisplay":"Verified","servingTemperature":"cool","servingTemperatureDisplay":"Cool - (8-12C\/45-54F)","createDate":"2012-05-30 19:07:38","updateDate":"2014-05-07 17:58:28","glass":{"id":8,"name":"Tulip","createDate":"2012-01-03 02:41:33"},"available":{"id":2,"name":"Limited","description":"Limited availability."},"style":{"id":59,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Tripel","shortName":"Belgian Tripel","description":"Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale\/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop\/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.","ibuMin":"20","ibuMax":"45","abvMin":"7","abvMax":"10","srmMin":"4","srmMax":"9","ogMin":"1.07","fgMin":"1.01","fgMax":"1.018","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:31:50"}},{"id":"zkFTZe","name":"Chimay Dor\u00e9e (Gold)","nameDisplay":"Chimay Dor\u00e9e (Gold)","description":"Brewed from very similar ingredients as the Red, but paler and spiced differently. It is a patersbier, intended only to be drunk at the abbey or at the nearby inn Auberge de Poteaupr\u00e9, which is associated with the abbey. The monks themselves drink this variety rather than the stronger three. The Dor\u00e9e is not sold commercially and the rare bottles which make their way out are through unofficial sources. Even the brewery's own web site makes no mention of this variety.","abv":"4.8","glasswareId":6,"availableId":1,"styleId":61,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/zkFTZe\/upload_R10Sd3-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/zkFTZe\/upload_R10Sd3-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/zkFTZe\/upload_R10Sd3-large.png"},"status":"verified","statusDisplay":"Verified","servingTemperature":"cool","servingTemperatureDisplay":"Cool - (8-12C\/45-54F)","createDate":"2012-01-03 02:42:59","updateDate":"2015-07-09 14:49:57","glass":{"id":6,"name":"Snifter","createDate":"2012-01-03 02:41:33"},"available":{"id":1,"name":"Year Round","description":"Available year round as a staple beer."},"style":{"id":61,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Blonde Ale","shortName":"Belgian Blonde","description":"Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.","ibuMin":"15","ibuMax":"30","abvMin":"6","abvMax":"7.8","srmMin":"4","srmMax":"7","ogMin":"1.054","fgMin":"1.008","fgMax":"1.014","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:32:01"}},{"id":"PK8ETw","name":"Chimay Grande R\u00e9serve (Blue)","nameDisplay":"Chimay Grande R\u00e9serve (Blue)","description":"Named Grande R\u00e9serve in 75 cl (25.4 fl.oz.) bottles, it is principally distinguished by its character of a strong beer.\r\n\r\nThis is a beer whose fragrance of fresh yeast with a light, flowery rosy touch is especially pleasant.\r\n\r\nIts flavor, noticed when tasting it, only accentuates the pleasant sensations perceived in the aroma , while revealing a light but pleasant touch of roasted malt.\r\n\r\nThis top fermented Trappist beer , re-fermented in the bottle, is not pasteurized.","abv":"9","ibu":"20","glasswareId":6,"srmId":29,"availableId":1,"styleId":63,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/PK8ETw\/upload_MOsbF6-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/PK8ETw\/upload_MOsbF6-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/PK8ETw\/upload_MOsbF6-large.png"},"status":"verified","statusDisplay":"Verified","servingTemperature":"cool","servingTemperatureDisplay":"Cool - (8-12C\/45-54F)","createDate":"2012-01-03 02:42:59","updateDate":"2014-12-17 15:29:58","glass":{"id":6,"name":"Snifter","createDate":"2012-01-03 02:41:33"},"srm":{"id":29,"name":"29","hex":"660D00"},"available":{"id":1,"name":"Year Round","description":"Available year round as a staple beer."},"style":{"id":63,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Pale Strong Ale","shortName":"Belgian Pale Strong","description":"Belgian pale strong ales are pale to golden in color with relatively light body for a beer of its alcoholic strength. Often brewed with light colored Belgian \"candy\" sugar, these beers are well attenuated. The perception of hop bitterness is medium-low to medium -high, with hop flavor and aroma also in this range. These beers are highly attenuated and have a perceptively deceiving high alcoholic character-being light to medium bodied rather than full bodied. The intensity of malt character should be low to medium, often surviving along with a complex fruitiness. Very little or no diacetyl is perceived. Herbs and spices are sometimes used to delicately flavor these strong ales. Low levels of phenolic spiciness from yeast byproducts may also be perceived. Chill haze is allowable at cold temperatures.","ibuMin":"20","ibuMax":"50","abvMin":"7","abvMax":"11","srmMin":"4","srmMax":"10","ogMin":"1.064","fgMin":"1.012","fgMax":"1.024","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:32:16"}},{"id":"dKvrhI","name":"Chimay Premi\u00e8re (Red)","nameDisplay":"Chimay Premi\u00e8re (Red)","description":"First sold in 75 cl (25.4 fl.oz.) bottles, it is noted for its coppery colour which makes it particularly attractive.\r\n\r\nTopped with a creamy head, it gives off a light, fruity apricot aroma produced by the fermentation. The taste perceived in the mouth is a balance confirming the fruity nuances noticed in the fragrance. \r\n\r\nIts taste, which imparts a silky sensation to the tongue, is made refreshing by a light touch of bitterness. To the palate, the taster perceives a pleasant astringency which complements the flavour qualities of this beer very harmoniously.\r\n\r\nThis top fermented Trappist beer, refermented in the bottle, is not pasteurised.","abv":"7","ibu":"21","glasswareId":6,"srmId":23,"availableId":1,"styleId":58,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/dKvrhI\/upload_y49zRo-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/dKvrhI\/upload_y49zRo-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/dKvrhI\/upload_y49zRo-large.png"},"status":"verified","statusDisplay":"Verified","servingTemperature":"cool","servingTemperatureDisplay":"Cool - (8-12C\/45-54F)","createDate":"2012-01-03 02:42:59","updateDate":"2015-07-09 14:43:01","glass":{"id":6,"name":"Snifter","createDate":"2012-01-03 02:41:33"},"srm":{"id":23,"name":"23","hex":"882300"},"available":{"id":1,"name":"Year Round","description":"Available year round as a staple beer."},"style":{"id":58,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Dubbel","shortName":"Belgian Dubbel","description":"This medium-bodied, red to dark brown colored ale has a malty sweetness and chocolate-like caramel aroma. A light hop flavor and\/or aroma is acceptable. Dubbels are also characterized by low-medium to medium bitterness. No diacetyl is acceptable. Yeastgenerated fruity esters (especially banana) are appropriate at low levels. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Often bottle conditioned a slight yeast haze and flavor may be evident.","ibuMin":"20","ibuMax":"30","abvMin":"6.25","abvMax":"7.5","srmMin":"16","srmMax":"36","ogMin":"1.06","fgMin":"1.012","fgMax":"1.016","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:31:45"}},{"id":"Feefqj","name":"Chimay Triple (White)","nameDisplay":"Chimay Triple (White)","description":"Named Cinq Cents in 75 cl (25.4 fl.oz.) bottles, this beer with its typical golden color, its slightly hazy appearance and its fine head is especially characterized by its aroma which results from an agreeable combination of fresh hops and yeast. \r\n\r\nThe beer's flavor, as sensed in the mouth, comes from the smell of hops: above all it is the fruity notes of muscat and raisins that give this beer a particularly attractive aroma. \r\n\r\nThe aroma complements the touch of bitterness. There is no acidity, but an after-bitterness which melts in the mouth.\r\n\r\nThis top fermented Trappist beer, re-fermented in the bottle, is not pasteurized.","abv":"8","glasswareId":6,"availableId":1,"styleId":59,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Feefqj\/upload_CSxgzS-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Feefqj\/upload_CSxgzS-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Feefqj\/upload_CSxgzS-large.png"},"status":"verified","statusDisplay":"Verified","servingTemperature":"cool","servingTemperatureDisplay":"Cool - (8-12C\/45-54F)","createDate":"2012-01-03 02:42:59","updateDate":"2015-07-09 14:47:45","glass":{"id":6,"name":"Snifter","createDate":"2012-01-03 02:41:33"},"available":{"id":1,"name":"Year Round","description":"Available year round as a staple beer."},"style":{"id":59,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Tripel","shortName":"Belgian Tripel","description":"Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale\/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop\/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.","ibuMin":"20","ibuMax":"45","abvMin":"7","abvMax":"10","srmMin":"4","srmMax":"9","ogMin":"1.07","fgMin":"1.01","fgMax":"1.018","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:31:50"}},{"id":"R8vw0Z","name":"Sp\u00e9ciale Cent Cinquante","nameDisplay":"Sp\u00e9ciale Cent Cinquante","description":"This special edition is a full bodied and distinctive strong beer developed within the abbey to celebrate and honour the 150th anniversary of the brewery. Produced with 100% natural ingredients,its pale golden robe and champagne sparkle is topped by a rich white head of foam. The distinctive bouquet evokes the rich fruity and complex notes of the Chimay yeast in harmony with a delicate spicy note and the fragrance of fresh noble hops. At 10% alcohol, the flavour is full bodied and complex with a slight but refreshing tang note and a crisp hop finish that will delight the palate.","abv":"10","styleId":59,"isOrganic":"N","status":"verified","statusDisplay":"Verified","createDate":"2014-06-16 14:51:32","updateDate":"2014-06-17 00:00:57","style":{"id":59,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Tripel","shortName":"Belgian Tripel","description":"Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale\/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop\/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.","ibuMin":"20","ibuMax":"45","abvMin":"7","abvMax":"10","srmMin":"4","srmMax":"9","ogMin":"1.07","fgMin":"1.01","fgMax":"1.018","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:31:50"}}]
+[{
+  "id": "Ql6BWb",
+  "name": "Chimay Cinq Cents (Tripel)",
+  "nameDisplay": "Chimay Cinq Cents (Tripel)",
+  "description": "Chimay Tripel, with its typical golden colour, its slightly hazy appearance and its fine head is especially characterised by its aroma which results from an agreeable combination of fresh hops and yeast. The beer\u2019s flavour, as sensed in the mouth, comes from the smell of hops: above all it is the fruity notes of muscat and raisins that give this beer a particularly attractive aroma. The aroma complements the touch of bitterness. There is no acidity, but an after-bitterness which melts in the mouth. This top fermented Trappist beer, refermented in the bottle, is not pasteurised.",
+  "abv": "8",
+  "glasswareId": 8,
+  "availableId": 2,
+  "styleId": 59,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Ql6BWb\/upload_Vfte8E-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Ql6BWb\/upload_Vfte8E-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Ql6BWb\/upload_Vfte8E-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "servingTemperature": "cool",
+  "servingTemperatureDisplay": "Cool - (8-12C\/45-54F)",
+  "createDate": "2012-05-30 19:07:38",
+  "updateDate": "2014-05-07 17:58:28",
+  "glass": {
+    "id": 8,
+    "name": "Tulip",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "available": {
+    "id": 2,
+    "name": "Limited",
+    "description": "Limited availability."
+  },
+  "style": {
+    "id": 59,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Tripel",
+    "shortName": "Belgian Tripel",
+    "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale\/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop\/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+    "ibuMin": "20",
+    "ibuMax": "45",
+    "abvMin": "7",
+    "abvMax": "10",
+    "srmMin": "4",
+    "srmMax": "9",
+    "ogMin": "1.07",
+    "fgMin": "1.01",
+    "fgMax": "1.018",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:31:50"
+  }
+}, {
+  "id": "zkFTZe",
+  "name": "Chimay Dor\u00e9e (Gold)",
+  "nameDisplay": "Chimay Dor\u00e9e (Gold)",
+  "description": "Brewed from very similar ingredients as the Red, but paler and spiced differently. It is a patersbier, intended only to be drunk at the abbey or at the nearby inn Auberge de Poteaupr\u00e9, which is associated with the abbey. The monks themselves drink this variety rather than the stronger three. The Dor\u00e9e is not sold commercially and the rare bottles which make their way out are through unofficial sources. Even the brewery's own web site makes no mention of this variety.",
+  "abv": "4.8",
+  "glasswareId": 6,
+  "availableId": 1,
+  "styleId": 61,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/zkFTZe\/upload_R10Sd3-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/zkFTZe\/upload_R10Sd3-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/zkFTZe\/upload_R10Sd3-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "servingTemperature": "cool",
+  "servingTemperatureDisplay": "Cool - (8-12C\/45-54F)",
+  "createDate": "2012-01-03 02:42:59",
+  "updateDate": "2015-07-09 14:49:57",
+  "glass": {
+    "id": 6,
+    "name": "Snifter",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "available": {
+    "id": 1,
+    "name": "Year Round",
+    "description": "Available year round as a staple beer."
+  },
+  "style": {
+    "id": 61,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Blonde Ale",
+    "shortName": "Belgian Blonde",
+    "description": "Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.",
+    "ibuMin": "15",
+    "ibuMax": "30",
+    "abvMin": "6",
+    "abvMax": "7.8",
+    "srmMin": "4",
+    "srmMax": "7",
+    "ogMin": "1.054",
+    "fgMin": "1.008",
+    "fgMax": "1.014",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:32:01"
+  }
+}, {
+  "id": "PK8ETw",
+  "name": "Chimay Grande R\u00e9serve (Blue)",
+  "nameDisplay": "Chimay Grande R\u00e9serve (Blue)",
+  "description": "Named Grande R\u00e9serve in 75 cl (25.4 fl.oz.) bottles, it is principally distinguished by its character of a strong beer.\r\n\r\nThis is a beer whose fragrance of fresh yeast with a light, flowery rosy touch is especially pleasant.\r\n\r\nIts flavor, noticed when tasting it, only accentuates the pleasant sensations perceived in the aroma , while revealing a light but pleasant touch of roasted malt.\r\n\r\nThis top fermented Trappist beer , re-fermented in the bottle, is not pasteurized.",
+  "abv": "9",
+  "ibu": "20",
+  "glasswareId": 6,
+  "srmId": 29,
+  "availableId": 1,
+  "styleId": 63,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/PK8ETw\/upload_MOsbF6-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/PK8ETw\/upload_MOsbF6-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/PK8ETw\/upload_MOsbF6-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "servingTemperature": "cool",
+  "servingTemperatureDisplay": "Cool - (8-12C\/45-54F)",
+  "createDate": "2012-01-03 02:42:59",
+  "updateDate": "2014-12-17 15:29:58",
+  "glass": {
+    "id": 6,
+    "name": "Snifter",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "srm": {
+    "id": 29,
+    "name": "29",
+    "hex": "660D00"
+  },
+  "available": {
+    "id": 1,
+    "name": "Year Round",
+    "description": "Available year round as a staple beer."
+  },
+  "style": {
+    "id": 63,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Pale Strong Ale",
+    "shortName": "Belgian Pale Strong",
+    "description": "Belgian pale strong ales are pale to golden in color with relatively light body for a beer of its alcoholic strength. Often brewed with light colored Belgian \"candy\" sugar, these beers are well attenuated. The perception of hop bitterness is medium-low to medium -high, with hop flavor and aroma also in this range. These beers are highly attenuated and have a perceptively deceiving high alcoholic character-being light to medium bodied rather than full bodied. The intensity of malt character should be low to medium, often surviving along with a complex fruitiness. Very little or no diacetyl is perceived. Herbs and spices are sometimes used to delicately flavor these strong ales. Low levels of phenolic spiciness from yeast byproducts may also be perceived. Chill haze is allowable at cold temperatures.",
+    "ibuMin": "20",
+    "ibuMax": "50",
+    "abvMin": "7",
+    "abvMax": "11",
+    "srmMin": "4",
+    "srmMax": "10",
+    "ogMin": "1.064",
+    "fgMin": "1.012",
+    "fgMax": "1.024",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:32:16"
+  }
+}, {
+  "id": "dKvrhI",
+  "name": "Chimay Premi\u00e8re (Red)",
+  "nameDisplay": "Chimay Premi\u00e8re (Red)",
+  "description": "First sold in 75 cl (25.4 fl.oz.) bottles, it is noted for its coppery colour which makes it particularly attractive.\r\n\r\nTopped with a creamy head, it gives off a light, fruity apricot aroma produced by the fermentation. The taste perceived in the mouth is a balance confirming the fruity nuances noticed in the fragrance. \r\n\r\nIts taste, which imparts a silky sensation to the tongue, is made refreshing by a light touch of bitterness. To the palate, the taster perceives a pleasant astringency which complements the flavour qualities of this beer very harmoniously.\r\n\r\nThis top fermented Trappist beer, refermented in the bottle, is not pasteurised.",
+  "abv": "7",
+  "ibu": "21",
+  "glasswareId": 6,
+  "srmId": 23,
+  "availableId": 1,
+  "styleId": 58,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/dKvrhI\/upload_y49zRo-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/dKvrhI\/upload_y49zRo-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/dKvrhI\/upload_y49zRo-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "servingTemperature": "cool",
+  "servingTemperatureDisplay": "Cool - (8-12C\/45-54F)",
+  "createDate": "2012-01-03 02:42:59",
+  "updateDate": "2015-07-09 14:43:01",
+  "glass": {
+    "id": 6,
+    "name": "Snifter",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "srm": {
+    "id": 23,
+    "name": "23",
+    "hex": "882300"
+  },
+  "available": {
+    "id": 1,
+    "name": "Year Round",
+    "description": "Available year round as a staple beer."
+  },
+  "style": {
+    "id": 58,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Dubbel",
+    "shortName": "Belgian Dubbel",
+    "description": "This medium-bodied, red to dark brown colored ale has a malty sweetness and chocolate-like caramel aroma. A light hop flavor and\/or aroma is acceptable. Dubbels are also characterized by low-medium to medium bitterness. No diacetyl is acceptable. Yeastgenerated fruity esters (especially banana) are appropriate at low levels. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Often bottle conditioned a slight yeast haze and flavor may be evident.",
+    "ibuMin": "20",
+    "ibuMax": "30",
+    "abvMin": "6.25",
+    "abvMax": "7.5",
+    "srmMin": "16",
+    "srmMax": "36",
+    "ogMin": "1.06",
+    "fgMin": "1.012",
+    "fgMax": "1.016",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:31:45"
+  }
+}, {
+  "id": "Feefqj",
+  "name": "Chimay Triple (White)",
+  "nameDisplay": "Chimay Triple (White)",
+  "description": "Named Cinq Cents in 75 cl (25.4 fl.oz.) bottles, this beer with its typical golden color, its slightly hazy appearance and its fine head is especially characterized by its aroma which results from an agreeable combination of fresh hops and yeast. \r\n\r\nThe beer's flavor, as sensed in the mouth, comes from the smell of hops: above all it is the fruity notes of muscat and raisins that give this beer a particularly attractive aroma. \r\n\r\nThe aroma complements the touch of bitterness. There is no acidity, but an after-bitterness which melts in the mouth.\r\n\r\nThis top fermented Trappist beer, re-fermented in the bottle, is not pasteurized.",
+  "abv": "8",
+  "glasswareId": 6,
+  "availableId": 1,
+  "styleId": 59,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Feefqj\/upload_CSxgzS-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Feefqj\/upload_CSxgzS-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Feefqj\/upload_CSxgzS-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "servingTemperature": "cool",
+  "servingTemperatureDisplay": "Cool - (8-12C\/45-54F)",
+  "createDate": "2012-01-03 02:42:59",
+  "updateDate": "2015-07-09 14:47:45",
+  "glass": {
+    "id": 6,
+    "name": "Snifter",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "available": {
+    "id": 1,
+    "name": "Year Round",
+    "description": "Available year round as a staple beer."
+  },
+  "style": {
+    "id": 59,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Tripel",
+    "shortName": "Belgian Tripel",
+    "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale\/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop\/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+    "ibuMin": "20",
+    "ibuMax": "45",
+    "abvMin": "7",
+    "abvMax": "10",
+    "srmMin": "4",
+    "srmMax": "9",
+    "ogMin": "1.07",
+    "fgMin": "1.01",
+    "fgMax": "1.018",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:31:50"
+  }
+}, {
+  "id": "R8vw0Z",
+  "name": "Sp\u00e9ciale Cent Cinquante",
+  "nameDisplay": "Sp\u00e9ciale Cent Cinquante",
+  "description": "This special edition is a full bodied and distinctive strong beer developed within the abbey to celebrate and honour the 150th anniversary of the brewery. Produced with 100% natural ingredients,its pale golden robe and champagne sparkle is topped by a rich white head of foam. The distinctive bouquet evokes the rich fruity and complex notes of the Chimay yeast in harmony with a delicate spicy note and the fragrance of fresh noble hops. At 10% alcohol, the flavour is full bodied and complex with a slight but refreshing tang note and a crisp hop finish that will delight the palate.",
+  "abv": "10",
+  "styleId": 59,
+  "isOrganic": "N",
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2014-06-16 14:51:32",
+  "updateDate": "2014-06-17 00:00:57",
+  "style": {
+    "id": 59,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Tripel",
+    "shortName": "Belgian Tripel",
+    "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale\/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop\/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+    "ibuMin": "20",
+    "ibuMax": "45",
+    "abvMin": "7",
+    "abvMax": "10",
+    "srmMin": "4",
+    "srmMax": "9",
+    "ogMin": "1.07",
+    "fgMin": "1.01",
+    "fgMax": "1.018",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:31:50"
+  }
+}]

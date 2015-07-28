@@ -1,1 +1,333 @@
-[{"id":"Lz3dwE","name":"Cassis","nameDisplay":"Cassis","abv":"4","glasswareId":6,"availableId":1,"styleId":68,"isOrganic":"N","status":"verified","statusDisplay":"Verified","createDate":"2012-05-30 20:44:17","updateDate":"2012-09-06 18:31:15","glass":{"id":6,"name":"Snifter","createDate":"2012-01-03 02:41:33"},"available":{"id":1,"name":"Year Round","description":"Available year round as a staple beer."},"style":{"id":68,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Fruit Lambic","shortName":"Fruit Lambic","description":"These beers, also known by the names framboise, kriek, peche, cassis, etc., are characterized by fruit flavors and aromas. The color reflects the choice of fruit. Sourness is an important part of the flavor profile, though sweetness may compromise the intensity. These flavored lambic beers may be very dry or mildly sweet and range from a dry to a full-bodied mouthfeel. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Vanillin and other woody flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar, fruit or artificial sweeteners. Some versions often have a degree of sweetness, contributed by fruit sugars, other sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.","ibuMin":"15","ibuMax":"21","abvMin":"5.6","abvMax":"8.6","ogMin":"1.04","fgMin":"1.008","fgMax":"1.016","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:32:47"}},{"id":"dXLAXI","name":"Cuv\u00eae Ren\u00ea Grand Cru Gueuze Lambic","nameDisplay":"Cuv\u00eae Ren\u00ea Grand Cru Gueuze Lambic","description":"Nowadays, Lambic on draught is hard to find. Only in a few pubs in and around Brussels you still can taste the curious sherry-like flavoured beer. Nevertheless, since 1880, Lambic was bottled to simplify transport but also for conservation properties. This method was the birth of Gueuze: Before the bottling of the Gueuze, a blend is made of 2\/3 young Lambic and 1\/3 old Lambic. The right ratio young\/old is depending on the maturation degree (end attenuation) of each of them. The bottles, with the wild-spontaneous yeast flora, are refermented in the cellar (Method Champenoise).\r\n\r\nAfter 6 months the Gueuze obtains a golden color and a cidery, winey palate; reminiscent, perhaps, of dry vermouth with a more complex and natural flavour.\r\n\r\nIt is often served as an happy hour drink in Brussels. It is the traditional beer for carbonade, as well as a beautifully based beverage with seafood or other salty meals. It's also delicious with cream sauces.\r\n\r\nBeside the traditional Gueuze (the Gueuze Grand Cru \"Cuv\u00e9e Ren\u00e9\"), there is also a more commercial Gueuze that dominate the market. It is filtered, pasteurized and has a more sweet taste.","styleId":68,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/dXLAXI\/upload_4V4IIu-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/dXLAXI\/upload_4V4IIu-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/dXLAXI\/upload_4V4IIu-large.png"},"status":"verified","statusDisplay":"Verified","servingTemperature":"very_cold","servingTemperatureDisplay":"Very Cold - (0-4C\/32-39F)","createDate":"2012-01-03 02:43:02","updateDate":"2014-03-26 10:42:15","style":{"id":68,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Fruit Lambic","shortName":"Fruit Lambic","description":"These beers, also known by the names framboise, kriek, peche, cassis, etc., are characterized by fruit flavors and aromas. The color reflects the choice of fruit. Sourness is an important part of the flavor profile, though sweetness may compromise the intensity. These flavored lambic beers may be very dry or mildly sweet and range from a dry to a full-bodied mouthfeel. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Vanillin and other woody flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar, fruit or artificial sweeteners. Some versions often have a degree of sweetness, contributed by fruit sugars, other sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.","ibuMin":"15","ibuMax":"21","abvMin":"5.6","abvMax":"8.6","ogMin":"1.04","fgMin":"1.008","fgMax":"1.016","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:32:47"}},{"id":"Lrdsn9","name":"Faro","nameDisplay":"Faro","abv":"4.5","srmId":17,"styleId":66,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Lrdsn9\/upload_Fm9fll-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Lrdsn9\/upload_Fm9fll-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Lrdsn9\/upload_Fm9fll-large.png"},"status":"verified","statusDisplay":"Verified","createDate":"2014-06-16 20:51:56","updateDate":"2015-03-02 13:07:33","srm":{"id":17,"name":"17","hex":"B04500"},"style":{"id":66,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Lambic","shortName":"Lambic","description":"Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.","ibuMin":"11","ibuMax":"23","abvMin":"6.2","abvMax":"8.1","srmMin":"6","srmMax":"13","ogMin":"1.047","fgMin":"1","fgMax":"1.01","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:32:34"}},{"id":"OsDwRF","name":"Framboise","nameDisplay":"Framboise","description":"A clean natural tasting brew with undertones of fresh raspberries and a wonderful aroma.","abv":"2.5","glasswareId":1,"availableId":1,"styleId":68,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/OsDwRF\/upload_geIub8-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/OsDwRF\/upload_geIub8-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/OsDwRF\/upload_geIub8-large.png"},"status":"verified","statusDisplay":"Verified","foodPairings":"Chocolate desserts (especially chocolate decadence), fresh raspberries, ice cream with a raspberry demi-glaze sauce, cr\u00e9me caramel, baked Alaska, Olympia oysters, caviar.","servingTemperature":"cool","servingTemperatureDisplay":"Cool - (8-12C\/45-54F)","createDate":"2012-01-03 02:43:14","updateDate":"2014-12-26 20:10:04","glass":{"id":1,"name":"Flute","createDate":"2012-01-03 02:41:33"},"available":{"id":1,"name":"Year Round","description":"Available year round as a staple beer."},"style":{"id":68,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Fruit Lambic","shortName":"Fruit Lambic","description":"These beers, also known by the names framboise, kriek, peche, cassis, etc., are characterized by fruit flavors and aromas. The color reflects the choice of fruit. Sourness is an important part of the flavor profile, though sweetness may compromise the intensity. These flavored lambic beers may be very dry or mildly sweet and range from a dry to a full-bodied mouthfeel. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Vanillin and other woody flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar, fruit or artificial sweeteners. Some versions often have a degree of sweetness, contributed by fruit sugars, other sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.","ibuMin":"15","ibuMax":"21","abvMin":"5.6","abvMax":"8.6","ogMin":"1.04","fgMin":"1.008","fgMax":"1.016","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:32:47"}},{"id":"1Bwkag","name":"Gueuze Cuv\u00ebe Ren\u00eb","nameDisplay":"Gueuze Cuv\u00ebe Ren\u00eb","description":"A golden hue sets off the wonderful almost champagne like taste.","abv":"5","styleId":67,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/1Bwkag\/upload_fSYyuo-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/1Bwkag\/upload_fSYyuo-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/1Bwkag\/upload_fSYyuo-large.png"},"status":"verified","statusDisplay":"Verified","createDate":"2012-01-03 02:43:19","updateDate":"2015-06-05 17:24:04","style":{"id":67,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Gueuze Lambic","shortName":"Gueuze","description":"Old lambic is blended with newly fermenting young lambic to create this special style of lambic. Gueuze is always referrmented in the bottle. These unflavored blended and secondary fermented lambic beers may be very dry or mildly sweet and are characterized by intense fruity-estery, sour, and acidic aromas and flavors. These pale beers are brewed with unmalted wheat, malted barley, and stale, aged hops. Sweet malt characters are not perceived. They are very low in hop bitterness. Diacetyl should be absent. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Cloudiness is acceptable. These beers are quite dry and light bodied. Vanillin and other wood-derived flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional gueuze lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Some versions often have a degree of sweetness, contributed by sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.","ibuMin":"11","ibuMax":"23","abvMin":"6.8","abvMax":"8.6","srmMin":"6","srmMax":"13","ogMin":"1.044","fgMin":"1","fgMax":"1.01","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:32:40"}},{"id":"oXpZ0p","name":"Kriek","nameDisplay":"Kriek","styleId":68,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/oXpZ0p\/upload_BQ1X6s-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/oXpZ0p\/upload_BQ1X6s-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/oXpZ0p\/upload_BQ1X6s-large.png"},"status":"verified","statusDisplay":"Verified","createDate":"2012-01-03 02:43:34","updateDate":"2014-10-10 12:16:36","style":{"id":68,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Fruit Lambic","shortName":"Fruit Lambic","description":"These beers, also known by the names framboise, kriek, peche, cassis, etc., are characterized by fruit flavors and aromas. The color reflects the choice of fruit. Sourness is an important part of the flavor profile, though sweetness may compromise the intensity. These flavored lambic beers may be very dry or mildly sweet and range from a dry to a full-bodied mouthfeel. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Vanillin and other woody flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar, fruit or artificial sweeteners. Some versions often have a degree of sweetness, contributed by fruit sugars, other sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.","ibuMin":"15","ibuMax":"21","abvMin":"5.6","abvMax":"8.6","ogMin":"1.04","fgMin":"1.008","fgMax":"1.016","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:32:47"}},{"id":"AEmK8N","name":"P\u00e9che \/ Pecheresse","nameDisplay":"P\u00e9che \/ Pecheresse","styleId":68,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/AEmK8N\/upload_4Flbar-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/AEmK8N\/upload_4Flbar-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/AEmK8N\/upload_4Flbar-large.png"},"status":"verified","statusDisplay":"Verified","createDate":"2012-01-03 02:43:54","updateDate":"2014-02-12 12:43:09","style":{"id":68,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Fruit Lambic","shortName":"Fruit Lambic","description":"These beers, also known by the names framboise, kriek, peche, cassis, etc., are characterized by fruit flavors and aromas. The color reflects the choice of fruit. Sourness is an important part of the flavor profile, though sweetness may compromise the intensity. These flavored lambic beers may be very dry or mildly sweet and range from a dry to a full-bodied mouthfeel. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Vanillin and other woody flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar, fruit or artificial sweeteners. Some versions often have a degree of sweetness, contributed by fruit sugars, other sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.","ibuMin":"15","ibuMax":"21","abvMin":"5.6","abvMax":"8.6","ogMin":"1.04","fgMin":"1.008","fgMax":"1.016","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:32:47"}},{"id":"yBMgwa","name":"Pomme","nameDisplay":"Pomme","abv":"3.5","styleId":66,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/yBMgwa\/upload_GOOSnE-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/yBMgwa\/upload_GOOSnE-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/yBMgwa\/upload_GOOSnE-large.png"},"status":"verified","statusDisplay":"Verified","createDate":"2014-06-16 20:52:17","updateDate":"2015-04-21 17:28:17","style":{"id":66,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Lambic","shortName":"Lambic","description":"Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.","ibuMin":"11","ibuMax":"23","abvMin":"6.2","abvMax":"8.1","srmMin":"6","srmMax":"13","ogMin":"1.047","fgMin":"1","fgMax":"1.01","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:32:34"}}]
+[{
+  "id": "Lz3dwE",
+  "name": "Cassis",
+  "nameDisplay": "Cassis",
+  "abv": "4",
+  "glasswareId": 6,
+  "availableId": 1,
+  "styleId": 68,
+  "isOrganic": "N",
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2012-05-30 20:44:17",
+  "updateDate": "2012-09-06 18:31:15",
+  "glass": {
+    "id": 6,
+    "name": "Snifter",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "available": {
+    "id": 1,
+    "name": "Year Round",
+    "description": "Available year round as a staple beer."
+  },
+  "style": {
+    "id": 68,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Fruit Lambic",
+    "shortName": "Fruit Lambic",
+    "description": "These beers, also known by the names framboise, kriek, peche, cassis, etc., are characterized by fruit flavors and aromas. The color reflects the choice of fruit. Sourness is an important part of the flavor profile, though sweetness may compromise the intensity. These flavored lambic beers may be very dry or mildly sweet and range from a dry to a full-bodied mouthfeel. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Vanillin and other woody flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar, fruit or artificial sweeteners. Some versions often have a degree of sweetness, contributed by fruit sugars, other sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.",
+    "ibuMin": "15",
+    "ibuMax": "21",
+    "abvMin": "5.6",
+    "abvMax": "8.6",
+    "ogMin": "1.04",
+    "fgMin": "1.008",
+    "fgMax": "1.016",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:32:47"
+  }
+}, {
+  "id": "dXLAXI",
+  "name": "Cuv\u00eae Ren\u00ea Grand Cru Gueuze Lambic",
+  "nameDisplay": "Cuv\u00eae Ren\u00ea Grand Cru Gueuze Lambic",
+  "description": "Nowadays, Lambic on draught is hard to find. Only in a few pubs in and around Brussels you still can taste the curious sherry-like flavoured beer. Nevertheless, since 1880, Lambic was bottled to simplify transport but also for conservation properties. This method was the birth of Gueuze: Before the bottling of the Gueuze, a blend is made of 2\/3 young Lambic and 1\/3 old Lambic. The right ratio young\/old is depending on the maturation degree (end attenuation) of each of them. The bottles, with the wild-spontaneous yeast flora, are refermented in the cellar (Method Champenoise).\r\n\r\nAfter 6 months the Gueuze obtains a golden color and a cidery, winey palate; reminiscent, perhaps, of dry vermouth with a more complex and natural flavour.\r\n\r\nIt is often served as an happy hour drink in Brussels. It is the traditional beer for carbonade, as well as a beautifully based beverage with seafood or other salty meals. It's also delicious with cream sauces.\r\n\r\nBeside the traditional Gueuze (the Gueuze Grand Cru \"Cuv\u00e9e Ren\u00e9\"), there is also a more commercial Gueuze that dominate the market. It is filtered, pasteurized and has a more sweet taste.",
+  "styleId": 68,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/dXLAXI\/upload_4V4IIu-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/dXLAXI\/upload_4V4IIu-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/dXLAXI\/upload_4V4IIu-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "servingTemperature": "very_cold",
+  "servingTemperatureDisplay": "Very Cold - (0-4C\/32-39F)",
+  "createDate": "2012-01-03 02:43:02",
+  "updateDate": "2014-03-26 10:42:15",
+  "style": {
+    "id": 68,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Fruit Lambic",
+    "shortName": "Fruit Lambic",
+    "description": "These beers, also known by the names framboise, kriek, peche, cassis, etc., are characterized by fruit flavors and aromas. The color reflects the choice of fruit. Sourness is an important part of the flavor profile, though sweetness may compromise the intensity. These flavored lambic beers may be very dry or mildly sweet and range from a dry to a full-bodied mouthfeel. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Vanillin and other woody flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar, fruit or artificial sweeteners. Some versions often have a degree of sweetness, contributed by fruit sugars, other sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.",
+    "ibuMin": "15",
+    "ibuMax": "21",
+    "abvMin": "5.6",
+    "abvMax": "8.6",
+    "ogMin": "1.04",
+    "fgMin": "1.008",
+    "fgMax": "1.016",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:32:47"
+  }
+}, {
+  "id": "Lrdsn9",
+  "name": "Faro",
+  "nameDisplay": "Faro",
+  "abv": "4.5",
+  "srmId": 17,
+  "styleId": 66,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Lrdsn9\/upload_Fm9fll-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Lrdsn9\/upload_Fm9fll-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/Lrdsn9\/upload_Fm9fll-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2014-06-16 20:51:56",
+  "updateDate": "2015-03-02 13:07:33",
+  "srm": {
+    "id": 17,
+    "name": "17",
+    "hex": "B04500"
+  },
+  "style": {
+    "id": 66,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Lambic",
+    "shortName": "Lambic",
+    "description": "Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.",
+    "ibuMin": "11",
+    "ibuMax": "23",
+    "abvMin": "6.2",
+    "abvMax": "8.1",
+    "srmMin": "6",
+    "srmMax": "13",
+    "ogMin": "1.047",
+    "fgMin": "1",
+    "fgMax": "1.01",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:32:34"
+  }
+}, {
+  "id": "OsDwRF",
+  "name": "Framboise",
+  "nameDisplay": "Framboise",
+  "description": "A clean natural tasting brew with undertones of fresh raspberries and a wonderful aroma.",
+  "abv": "2.5",
+  "glasswareId": 1,
+  "availableId": 1,
+  "styleId": 68,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/OsDwRF\/upload_geIub8-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/OsDwRF\/upload_geIub8-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/OsDwRF\/upload_geIub8-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "foodPairings": "Chocolate desserts (especially chocolate decadence), fresh raspberries, ice cream with a raspberry demi-glaze sauce, cr\u00e9me caramel, baked Alaska, Olympia oysters, caviar.",
+  "servingTemperature": "cool",
+  "servingTemperatureDisplay": "Cool - (8-12C\/45-54F)",
+  "createDate": "2012-01-03 02:43:14",
+  "updateDate": "2014-12-26 20:10:04",
+  "glass": {
+    "id": 1,
+    "name": "Flute",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "available": {
+    "id": 1,
+    "name": "Year Round",
+    "description": "Available year round as a staple beer."
+  },
+  "style": {
+    "id": 68,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Fruit Lambic",
+    "shortName": "Fruit Lambic",
+    "description": "These beers, also known by the names framboise, kriek, peche, cassis, etc., are characterized by fruit flavors and aromas. The color reflects the choice of fruit. Sourness is an important part of the flavor profile, though sweetness may compromise the intensity. These flavored lambic beers may be very dry or mildly sweet and range from a dry to a full-bodied mouthfeel. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Vanillin and other woody flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar, fruit or artificial sweeteners. Some versions often have a degree of sweetness, contributed by fruit sugars, other sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.",
+    "ibuMin": "15",
+    "ibuMax": "21",
+    "abvMin": "5.6",
+    "abvMax": "8.6",
+    "ogMin": "1.04",
+    "fgMin": "1.008",
+    "fgMax": "1.016",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:32:47"
+  }
+}, {
+  "id": "1Bwkag",
+  "name": "Gueuze Cuv\u00ebe Ren\u00eb",
+  "nameDisplay": "Gueuze Cuv\u00ebe Ren\u00eb",
+  "description": "A golden hue sets off the wonderful almost champagne like taste.",
+  "abv": "5",
+  "styleId": 67,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/1Bwkag\/upload_fSYyuo-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/1Bwkag\/upload_fSYyuo-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/1Bwkag\/upload_fSYyuo-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2012-01-03 02:43:19",
+  "updateDate": "2015-06-05 17:24:04",
+  "style": {
+    "id": 67,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Gueuze Lambic",
+    "shortName": "Gueuze",
+    "description": "Old lambic is blended with newly fermenting young lambic to create this special style of lambic. Gueuze is always referrmented in the bottle. These unflavored blended and secondary fermented lambic beers may be very dry or mildly sweet and are characterized by intense fruity-estery, sour, and acidic aromas and flavors. These pale beers are brewed with unmalted wheat, malted barley, and stale, aged hops. Sweet malt characters are not perceived. They are very low in hop bitterness. Diacetyl should be absent. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Cloudiness is acceptable. These beers are quite dry and light bodied. Vanillin and other wood-derived flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional gueuze lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Some versions often have a degree of sweetness, contributed by sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.",
+    "ibuMin": "11",
+    "ibuMax": "23",
+    "abvMin": "6.8",
+    "abvMax": "8.6",
+    "srmMin": "6",
+    "srmMax": "13",
+    "ogMin": "1.044",
+    "fgMin": "1",
+    "fgMax": "1.01",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:32:40"
+  }
+}, {
+  "id": "oXpZ0p",
+  "name": "Kriek",
+  "nameDisplay": "Kriek",
+  "styleId": 68,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/oXpZ0p\/upload_BQ1X6s-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/oXpZ0p\/upload_BQ1X6s-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/oXpZ0p\/upload_BQ1X6s-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2012-01-03 02:43:34",
+  "updateDate": "2014-10-10 12:16:36",
+  "style": {
+    "id": 68,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Fruit Lambic",
+    "shortName": "Fruit Lambic",
+    "description": "These beers, also known by the names framboise, kriek, peche, cassis, etc., are characterized by fruit flavors and aromas. The color reflects the choice of fruit. Sourness is an important part of the flavor profile, though sweetness may compromise the intensity. These flavored lambic beers may be very dry or mildly sweet and range from a dry to a full-bodied mouthfeel. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Vanillin and other woody flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar, fruit or artificial sweeteners. Some versions often have a degree of sweetness, contributed by fruit sugars, other sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.",
+    "ibuMin": "15",
+    "ibuMax": "21",
+    "abvMin": "5.6",
+    "abvMax": "8.6",
+    "ogMin": "1.04",
+    "fgMin": "1.008",
+    "fgMax": "1.016",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:32:47"
+  }
+}, {
+  "id": "AEmK8N",
+  "name": "P\u00e9che \/ Pecheresse",
+  "nameDisplay": "P\u00e9che \/ Pecheresse",
+  "styleId": 68,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/AEmK8N\/upload_4Flbar-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/AEmK8N\/upload_4Flbar-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/AEmK8N\/upload_4Flbar-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2012-01-03 02:43:54",
+  "updateDate": "2014-02-12 12:43:09",
+  "style": {
+    "id": 68,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Fruit Lambic",
+    "shortName": "Fruit Lambic",
+    "description": "These beers, also known by the names framboise, kriek, peche, cassis, etc., are characterized by fruit flavors and aromas. The color reflects the choice of fruit. Sourness is an important part of the flavor profile, though sweetness may compromise the intensity. These flavored lambic beers may be very dry or mildly sweet and range from a dry to a full-bodied mouthfeel. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Vanillin and other woody flavors should not be evident. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambic-style\" and may be made to resemble many of the beers of true origin. Historically, traditional lambics are dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar, fruit or artificial sweeteners. Some versions often have a degree of sweetness, contributed by fruit sugars, other sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet.  Artificial sweeteners are sometimes used in some brands.",
+    "ibuMin": "15",
+    "ibuMax": "21",
+    "abvMin": "5.6",
+    "abvMax": "8.6",
+    "ogMin": "1.04",
+    "fgMin": "1.008",
+    "fgMax": "1.016",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:32:47"
+  }
+}, {
+  "id": "yBMgwa",
+  "name": "Pomme",
+  "nameDisplay": "Pomme",
+  "abv": "3.5",
+  "styleId": 66,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/yBMgwa\/upload_GOOSnE-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/yBMgwa\/upload_GOOSnE-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/yBMgwa\/upload_GOOSnE-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2014-06-16 20:52:17",
+  "updateDate": "2015-04-21 17:28:17",
+  "style": {
+    "id": 66,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Lambic",
+    "shortName": "Lambic",
+    "description": "Unblended, naturally and spontaneously fermented lambic is intensely estery, sour, and sometimes, but not necessarily, acetic flavored. Low in carbon dioxide, these hazy beers are brewed with unmalted wheat and malted barley. Sweet malt characters are not perceived. They are very low in hop bitterness. Cloudiness is acceptable. These beers are quite dry and light bodied. Characteristic horsey, goaty, leathery and phenolic character evolved from Brettanomyces yeast is often present at moderate levels. Versions of this beer made outside of the Brussels area of Belgium cannot be true lambics. These versions are said to be \"lambicstyle\" and may be made to resemble many of the beers of true origin. Vanillin and other wood-derived flavors should not be evident. Historically, traditional lambic is dry and completely attenuated, exhibiting no residual sweetness either from malt, sugar or artificial sweeteners. Sweet versions may be created through addition of sugars or artificial sweeteners. Competition organizers may choose to subcategorize this style into A) Traditional and B) Sweet. Artificial sweeteners are sometimes used in some brands.",
+    "ibuMin": "11",
+    "ibuMax": "23",
+    "abvMin": "6.2",
+    "abvMax": "8.1",
+    "srmMin": "6",
+    "srmMax": "13",
+    "ogMin": "1.047",
+    "fgMin": "1",
+    "fgMax": "1.01",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:32:34"
+  }
+}]

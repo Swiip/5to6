@@ -1,10 +1,24 @@
 <section class="detail" layout="column" layout-align="center center">
   <md-button ng-link="list">Back</md-button>
+  <img ng-src="assets/images/breweries/{{detail.brewery.id}}-logo.jpg" class="logo" ng-animate-ref="{{detail.brewery.id}}-logo">
+  <img ng-src="assets/images/breweries/{{detail.brewery.id}}-banner.jpg" class="banner" ng-animate-ref="{{detail.brewery.id}}-banner">
 
-  <!--<img ng-src="assets/images/breweries/5ac2lB.jpg" class="logo" ng-animate-ref="5ac2lB">-->
-  <img ng-src="assets/images/breweries/{{detail.brewery.id}}.jpg" class="logo" ng-animate-ref="{{detail.brewery.id}}">
+  <md-content>
+    <section class="md-whiteframe-z2">
+      <h3>{{detail.brewery.name}}</h3>
+      <p><a ng-href="{{detail.brewery.website}}">{{detail.brewery.website}}</a></p>
+      <p>{{detail.brewery.description}}</p>
+    </section>
 
-  <section class="md-whiteframe-z2">
-    <h3>{{detail.brewery.name}}</h3>
-  </section>
+    <md-list>
+      <md-list-item ng-repeat="beer in detail.brewery.beers">
+        <md-card>
+          <md-card-content>
+            <h4>{{beer.name}}</h4>
+            <p>{{beer.description}}</p>
+          </md-card-content>
+        </md-card>
+      </md-list-item>
+    </md-list>
+  </md-content>
 </section>

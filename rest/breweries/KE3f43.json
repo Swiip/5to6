@@ -1,1 +1,17 @@
-{"id":"KE3f43","name":"Rochefort Brewery (Brasserie de Rochefort)","description":"Belgian trappist brewery.\r\n\r\nThe brewery is located inside the Abbey of Notre-Dame de Saint-R\u00e9my, near the town of Rochefort, and has been brewing beer since 1595. There are approximately 15 monks resident at the monastery. The monks are very secretive about the brewing process, and the brewery is not open to the public, therefore much of the information publicly known about the brewery comes from only a few sources.\r\n\r\nAs with all other trappist breweries, the beer is only sold in order to financially support the monastery and some other good causes. The monks will not increase production based on demand or profit motives, but only enough to support themselves, resulting in a fairly limited supply of beer availability. In practice, there is currently no shortage through regular channels.\r\n\r\n(Brewery  Abbey of Notre-Dame de Saint-R\u00e9my)","website":"http:\/\/www.abbaye-rochefort.be\/","established":"1595","isOrganic":"N","images":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/KE3f43\/upload_6b4qxc-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/KE3f43\/upload_6b4qxc-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/KE3f43\/upload_6b4qxc-large.png"},"status":"verified","statusDisplay":"Verified","createDate":"2012-01-03 02:42:07","updateDate":"2014-12-26 14:41:41"}
+{
+  "id": "KE3f43",
+  "name": "Rochefort Brewery (Brasserie de Rochefort)",
+  "description": "Belgian trappist brewery.\r\n\r\nThe brewery is located inside the Abbey of Notre-Dame de Saint-R\u00e9my, near the town of Rochefort, and has been brewing beer since 1595. There are approximately 15 monks resident at the monastery. The monks are very secretive about the brewing process, and the brewery is not open to the public, therefore much of the information publicly known about the brewery comes from only a few sources.\r\n\r\nAs with all other trappist breweries, the beer is only sold in order to financially support the monastery and some other good causes. The monks will not increase production based on demand or profit motives, but only enough to support themselves, resulting in a fairly limited supply of beer availability. In practice, there is currently no shortage through regular channels.\r\n\r\n(Brewery  Abbey of Notre-Dame de Saint-R\u00e9my)",
+  "website": "http:\/\/www.abbaye-rochefort.be\/",
+  "established": "1595",
+  "isOrganic": "N",
+  "images": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/KE3f43\/upload_6b4qxc-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/KE3f43\/upload_6b4qxc-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/KE3f43\/upload_6b4qxc-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2012-01-03 02:42:07",
+  "updateDate": "2014-12-26 14:41:41"
+}

@@ -5,13 +5,25 @@ section.detail {
     top: 10px;
   }
 
-  /*img {
+  img.banner {
     width: 100%;
-  }*/
-  
+  }
+
+  img.logo {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    left: calc(50% - 100px);
+    top: 20px;
+  }
+
   .md-whiteframe-z2 {
     margin: 10px;
     padding: 10px;
     width: 90%;
+  }
+
+  md-card {
+    width: 100%;
   }
 }

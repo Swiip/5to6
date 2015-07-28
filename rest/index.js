@@ -14,6 +14,7 @@ export default function breweryDbMiddleware(req, res, next) {
       if(result === null) {
         next();
       } else {
+        res.setHeader("Content-Type", "application/json");
         res.writeHead(200);
         res.end(result);
       }

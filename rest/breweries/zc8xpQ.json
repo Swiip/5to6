@@ -1,1 +1,15 @@
-{"id":"zc8xpQ","name":"Brouwerij Lindemans","description":"Eight generations ago, in 1809, the Lindemans family owned a farm in Vlezenbeek near Brussels. They decided to intensify Lambic brewing activities during winter, when less farm work had to be done. \r\nDue to the growing success of the Lambic, Geuze and Kriek, the brewery became more important and consequently, in 1930, the farm-activities were stopped. \r\n\r\nIn 1978, Lindemans relaunched the production of Faro, after a period during which it was almost disappeared from the market. \r\nThe Framboise was launched in 1980 and due to the success of the fruit-beers, they created 2 new beers: Cassis (black current beer) in 1986 and Pecheresse (peach beer) in 1987.\r\n\r\nBecause of the increasing demand of Lindemans' Lambic-beers the antiquated brewery became to slow to follow the production, so the Lindemans family decided in 1991 to build a new brewery next the old one to meet the growing needs of the market without any loss of quality. \r\nIn 2006, a new lambic product saw the light: Apple, a surprising apple fresh tasting beer.","isOrganic":"N","images":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/zc8xpQ\/upload_bnhlnU-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/zc8xpQ\/upload_bnhlnU-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/zc8xpQ\/upload_bnhlnU-large.png"},"status":"verified","statusDisplay":"Verified","createDate":"2012-01-03 02:41:49","updateDate":"2015-01-27 17:02:47"}
+{
+  "id": "zc8xpQ",
+  "name": "Brouwerij Lindemans",
+  "description": "Eight generations ago, in 1809, the Lindemans family owned a farm in Vlezenbeek near Brussels. They decided to intensify Lambic brewing activities during winter, when less farm work had to be done. \r\nDue to the growing success of the Lambic, Geuze and Kriek, the brewery became more important and consequently, in 1930, the farm-activities were stopped. \r\n\r\nIn 1978, Lindemans relaunched the production of Faro, after a period during which it was almost disappeared from the market. \r\nThe Framboise was launched in 1980 and due to the success of the fruit-beers, they created 2 new beers: Cassis (black current beer) in 1986 and Pecheresse (peach beer) in 1987.\r\n\r\nBecause of the increasing demand of Lindemans' Lambic-beers the antiquated brewery became to slow to follow the production, so the Lindemans family decided in 1991 to build a new brewery next the old one to meet the growing needs of the market without any loss of quality. \r\nIn 2006, a new lambic product saw the light: Apple, a surprising apple fresh tasting beer.",
+  "isOrganic": "N",
+  "images": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/zc8xpQ\/upload_bnhlnU-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/zc8xpQ\/upload_bnhlnU-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/zc8xpQ\/upload_bnhlnU-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2012-01-03 02:41:49",
+  "updateDate": "2015-01-27 17:02:47"
+}

@@ -1,1 +1,16 @@
-{"id":"FZPaw9","name":"Brouwerij Bosteels","website":"http:\/\/www.bestbelgianspecialbeers.be\/","established":"1791","isOrganic":"N","images":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/FZPaw9\/upload_9MaVKS-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/FZPaw9\/upload_9MaVKS-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/FZPaw9\/upload_9MaVKS-large.png"},"status":"verified","statusDisplay":"Verified","createDate":"2012-01-03 02:41:49","updateDate":"2014-05-05 12:04:19"}
+{
+  "id": "FZPaw9",
+  "name": "Brouwerij Bosteels",
+  "website": "http:\/\/www.bestbelgianspecialbeers.be\/",
+  "established": "1791",
+  "isOrganic": "N",
+  "images": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/FZPaw9\/upload_9MaVKS-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/FZPaw9\/upload_9MaVKS-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/brewery\/FZPaw9\/upload_9MaVKS-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2012-01-03 02:41:49",
+  "updateDate": "2014-05-05 12:04:19"
+}

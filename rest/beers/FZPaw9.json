@@ -1,1 +1,160 @@
-[{"id":"0ypPSv","name":"Deus Brut des Flandres","nameDisplay":"Deus Brut des Flandres","description":"First brewed at Bosteels, transfered to the Champagne region of France were it is treated much like a champagne with the bottles inverted and the yeast expunged and bottle recorked.","abv":"11.5","glasswareId":1,"availableId":1,"styleId":70,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/0ypPSv\/upload_mBAzzT-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/0ypPSv\/upload_mBAzzT-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/0ypPSv\/upload_mBAzzT-large.png"},"status":"verified","statusDisplay":"Verified","servingTemperature":"very_cold","servingTemperatureDisplay":"Very Cold - (0-4C\/32-39F)","createDate":"2012-01-03 02:43:04","updateDate":"2015-02-05 15:01:22","glass":{"id":1,"name":"Flute","createDate":"2012-01-03 02:41:33"},"available":{"id":1,"name":"Year Round","description":"Available year round as a staple beer."},"style":{"id":70,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Other Belgian-Style Ales","shortName":"Belgian Ale","description":"Recognizing the uniqueness and traditions of several other styles of Belgian Ales, the beers entered in this category will be assessed on the merits that they do not fit existing style guidelines and information that the brewer provides explaining the history and tradition of the style. Balance of character is a key component when assessing these beers. Barrel or wood-aged entries in competitions may be directed to other categories by competition director. In competitions the brewer must provide the historical or regional tradition of the style, or his interpretation of the style, in order to be assessed properly by the judges.","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:33:05"}},{"id":"FsjaTu","name":"Pauwel Kwak","nameDisplay":"Pauwel Kwak","description":"Kwak is recognisable by its deep bright amber colour and a dense, creamy coloured head. The pale wood of the glass holder makes a pleasant contrast with the beer.\r\n\r\nYou will smell a mellow, fruity and malty aroma with a slightly spicy character (coriander, hops). Additional earthy and very subtle aromas of banana and perhaps also a whiff of pineapple or mango in the background.\r\n\r\nDiscover a very mellow, fruity attack, a nougat-like solidity, and a slightly spicy character with hints of liquorice passing into a warm finish that reminds you of caramelised banana. The bitterness always remains in the background but in the end emerges delicately.","abv":"8.4","glasswareId":5,"availableId":1,"styleId":61,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/FsjaTu\/upload_MtucL6-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/FsjaTu\/upload_MtucL6-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/FsjaTu\/upload_MtucL6-large.png"},"status":"verified","statusDisplay":"Verified","servingTemperature":"cool","servingTemperatureDisplay":"Cool - (8-12C\/45-54F)","createDate":"2012-01-03 02:43:55","updateDate":"2015-01-11 04:37:50","glass":{"id":5,"name":"Pint","createDate":"2012-01-03 02:41:33"},"available":{"id":1,"name":"Year Round","description":"Available year round as a staple beer."},"style":{"id":61,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Blonde Ale","shortName":"Belgian Blonde","description":"Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.","ibuMin":"15","ibuMax":"30","abvMin":"6","abvMax":"7.8","srmMin":"4","srmMax":"7","ogMin":"1.054","fgMin":"1.008","fgMax":"1.014","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:32:01"}},{"id":"cBqXwG","name":"Triple Karmeliet","nameDisplay":"Triple Karmeliet","description":"Tripel Karmeliet is a very refined and complex golden-to-bronze brew with a fantastic creamy head. These characteristics derive not only from the grains used but also from restrained hopping with Styrians and the fruity nature (banana and vanilla) of the house yeast.\r\n\r\nVery refined and complex. Hints of vanilla mixed with citrus aromas.\r\n\r\nTripel Karmeliet has not only the lightness and freshness of wheat, but also the creaminess of oats together with a spicy lemony almost quinine\r\ndryness.","abv":"8","glasswareId":8,"srmId":25,"availableId":1,"styleId":59,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/cBqXwG\/upload_xjlJT7-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/cBqXwG\/upload_xjlJT7-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/cBqXwG\/upload_xjlJT7-large.png"},"status":"verified","statusDisplay":"Verified","servingTemperature":"cool","servingTemperatureDisplay":"Cool - (8-12C\/45-54F)","createDate":"2012-01-03 02:44:24","updateDate":"2015-07-20 15:07:53","glass":{"id":8,"name":"Tulip","createDate":"2012-01-03 02:41:33"},"srm":{"id":25,"name":"25","hex":"7B1A00"},"available":{"id":1,"name":"Year Round","description":"Available year round as a staple beer."},"style":{"id":59,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Tripel","shortName":"Belgian Tripel","description":"Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale\/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop\/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.","ibuMin":"20","ibuMax":"45","abvMin":"7","abvMax":"10","srmMin":"4","srmMax":"9","ogMin":"1.07","fgMin":"1.01","fgMax":"1.018","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:31:50"}}]
+[{
+  "id": "0ypPSv",
+  "name": "Deus Brut des Flandres",
+  "nameDisplay": "Deus Brut des Flandres",
+  "description": "First brewed at Bosteels, transfered to the Champagne region of France were it is treated much like a champagne with the bottles inverted and the yeast expunged and bottle recorked.",
+  "abv": "11.5",
+  "glasswareId": 1,
+  "availableId": 1,
+  "styleId": 70,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/0ypPSv\/upload_mBAzzT-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/0ypPSv\/upload_mBAzzT-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/0ypPSv\/upload_mBAzzT-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "servingTemperature": "very_cold",
+  "servingTemperatureDisplay": "Very Cold - (0-4C\/32-39F)",
+  "createDate": "2012-01-03 02:43:04",
+  "updateDate": "2015-02-05 15:01:22",
+  "glass": {
+    "id": 1,
+    "name": "Flute",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "available": {
+    "id": 1,
+    "name": "Year Round",
+    "description": "Available year round as a staple beer."
+  },
+  "style": {
+    "id": 70,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Other Belgian-Style Ales",
+    "shortName": "Belgian Ale",
+    "description": "Recognizing the uniqueness and traditions of several other styles of Belgian Ales, the beers entered in this category will be assessed on the merits that they do not fit existing style guidelines and information that the brewer provides explaining the history and tradition of the style. Balance of character is a key component when assessing these beers. Barrel or wood-aged entries in competitions may be directed to other categories by competition director. In competitions the brewer must provide the historical or regional tradition of the style, or his interpretation of the style, in order to be assessed properly by the judges.",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:33:05"
+  }
+}, {
+  "id": "FsjaTu",
+  "name": "Pauwel Kwak",
+  "nameDisplay": "Pauwel Kwak",
+  "description": "Kwak is recognisable by its deep bright amber colour and a dense, creamy coloured head. The pale wood of the glass holder makes a pleasant contrast with the beer.\r\n\r\nYou will smell a mellow, fruity and malty aroma with a slightly spicy character (coriander, hops). Additional earthy and very subtle aromas of banana and perhaps also a whiff of pineapple or mango in the background.\r\n\r\nDiscover a very mellow, fruity attack, a nougat-like solidity, and a slightly spicy character with hints of liquorice passing into a warm finish that reminds you of caramelised banana. The bitterness always remains in the background but in the end emerges delicately.",
+  "abv": "8.4",
+  "glasswareId": 5,
+  "availableId": 1,
+  "styleId": 61,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/FsjaTu\/upload_MtucL6-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/FsjaTu\/upload_MtucL6-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/FsjaTu\/upload_MtucL6-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "servingTemperature": "cool",
+  "servingTemperatureDisplay": "Cool - (8-12C\/45-54F)",
+  "createDate": "2012-01-03 02:43:55",
+  "updateDate": "2015-01-11 04:37:50",
+  "glass": {
+    "id": 5,
+    "name": "Pint",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "available": {
+    "id": 1,
+    "name": "Year Round",
+    "description": "Available year round as a staple beer."
+  },
+  "style": {
+    "id": 61,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Blonde Ale",
+    "shortName": "Belgian Blonde",
+    "description": "Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.",
+    "ibuMin": "15",
+    "ibuMax": "30",
+    "abvMin": "6",
+    "abvMax": "7.8",
+    "srmMin": "4",
+    "srmMax": "7",
+    "ogMin": "1.054",
+    "fgMin": "1.008",
+    "fgMax": "1.014",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:32:01"
+  }
+}, {
+  "id": "cBqXwG",
+  "name": "Triple Karmeliet",
+  "nameDisplay": "Triple Karmeliet",
+  "description": "Tripel Karmeliet is a very refined and complex golden-to-bronze brew with a fantastic creamy head. These characteristics derive not only from the grains used but also from restrained hopping with Styrians and the fruity nature (banana and vanilla) of the house yeast.\r\n\r\nVery refined and complex. Hints of vanilla mixed with citrus aromas.\r\n\r\nTripel Karmeliet has not only the lightness and freshness of wheat, but also the creaminess of oats together with a spicy lemony almost quinine\r\ndryness.",
+  "abv": "8",
+  "glasswareId": 8,
+  "srmId": 25,
+  "availableId": 1,
+  "styleId": 59,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/cBqXwG\/upload_xjlJT7-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/cBqXwG\/upload_xjlJT7-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/cBqXwG\/upload_xjlJT7-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "servingTemperature": "cool",
+  "servingTemperatureDisplay": "Cool - (8-12C\/45-54F)",
+  "createDate": "2012-01-03 02:44:24",
+  "updateDate": "2015-07-20 15:07:53",
+  "glass": {
+    "id": 8,
+    "name": "Tulip",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "srm": {
+    "id": 25,
+    "name": "25",
+    "hex": "7B1A00"
+  },
+  "available": {
+    "id": 1,
+    "name": "Year Round",
+    "description": "Available year round as a staple beer."
+  },
+  "style": {
+    "id": 59,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Tripel",
+    "shortName": "Belgian Tripel",
+    "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale\/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop\/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+    "ibuMin": "20",
+    "ibuMax": "45",
+    "abvMin": "7",
+    "abvMax": "10",
+    "srmMin": "4",
+    "srmMax": "9",
+    "ogMin": "1.07",
+    "fgMin": "1.01",
+    "fgMax": "1.018",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:31:50"
+  }
+}]

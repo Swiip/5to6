@@ -1,1 +1,136 @@
-[{"id":"rvFEGF","name":"Westmalle Extra","nameDisplay":"Westmalle Extra","description":"Hazy yellow with a frothy white head and good lacing. Aroma is very lemony with grains, mineral notes and herbal notes. Taste is also lemony (a little less than the aroma) with a good malt backbone, grains, coriander and herbal notes. Light\/medium body. Lively carbonation. Slightly dry finish. Nice and super refreshing Belgian Ale.","abv":"4.8","ibu":"30","glasswareId":2,"availableId":1,"styleId":61,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/rvFEGF\/upload_rReYfp-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/rvFEGF\/upload_rReYfp-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/rvFEGF\/upload_rReYfp-large.png"},"status":"verified","statusDisplay":"Verified","servingTemperature":"cool","servingTemperatureDisplay":"Cool - (8-12C\/45-54F)","createDate":"2014-05-07 16:22:56","updateDate":"2014-05-08 11:43:13","glass":{"id":2,"name":"Goblet","createDate":"2012-01-03 02:41:33"},"available":{"id":1,"name":"Year Round","description":"Available year round as a staple beer."},"style":{"id":61,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Blonde Ale","shortName":"Belgian Blonde","description":"Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.","ibuMin":"15","ibuMax":"30","abvMin":"6","abvMax":"7.8","srmMin":"4","srmMax":"7","ogMin":"1.054","fgMin":"1.008","fgMax":"1.014","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:32:01"}},{"id":"xsJWJ6","name":"Westmalle Trappist Dubbel","nameDisplay":"Westmalle Trappist Dubbel","description":"Westmalle Dubbel is a dark, reddish-brown Trappist beer with a secondary fermentation in the bottle. The creamy head has the fragrance of special malt and leaves an attractive lace pattern in the glass. The flavour is rich and complex, herby and fruity with a fresh-bitter finish. It is a balanced quality beer with a soft feel in the mouth and a long, dry aftertaste. The Dubbel contains 7% alcohol.","abv":"7","styleId":58,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/xsJWJ6\/upload_JcsgMV-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/xsJWJ6\/upload_JcsgMV-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/xsJWJ6\/upload_JcsgMV-large.png"},"status":"verified","statusDisplay":"Verified","createDate":"2012-01-03 02:44:29","updateDate":"2014-11-19 16:24:27","style":{"id":58,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Dubbel","shortName":"Belgian Dubbel","description":"This medium-bodied, red to dark brown colored ale has a malty sweetness and chocolate-like caramel aroma. A light hop flavor and\/or aroma is acceptable. Dubbels are also characterized by low-medium to medium bitterness. No diacetyl is acceptable. Yeastgenerated fruity esters (especially banana) are appropriate at low levels. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Often bottle conditioned a slight yeast haze and flavor may be evident.","ibuMin":"20","ibuMax":"30","abvMin":"6.25","abvMax":"7.5","srmMin":"16","srmMax":"36","ogMin":"1.06","fgMin":"1.012","fgMax":"1.016","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:31:45"}},{"id":"yuxw75","name":"Westmalle Trappist Tripel","nameDisplay":"Westmalle Trappist Tripel","description":"Was first brewed in 1934 and the recipe has not changed since 1956. It is made with pale candy sugar and has a very pale color produced from a mash of light pilsener malts. Styrian Goldings hops are used along with some German varieties and the classic Saaz pilsener hop. After a long secondary fermentation, the Tripel Westmalle is bottled with a dose of sugar and yeast. This beer holds up well in the bottle over time and seems to soften with age.","abv":"9.5","styleId":59,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/yuxw75\/upload_C6JM2G-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/yuxw75\/upload_C6JM2G-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/yuxw75\/upload_C6JM2G-large.png"},"status":"verified","statusDisplay":"Verified","createDate":"2012-01-03 02:44:29","updateDate":"2015-07-01 14:05:45","style":{"id":59,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Tripel","shortName":"Belgian Tripel","description":"Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale\/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop\/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.","ibuMin":"20","ibuMax":"45","abvMin":"7","abvMax":"10","srmMin":"4","srmMax":"9","ogMin":"1.07","fgMin":"1.01","fgMax":"1.018","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:31:50"}}]
+[{
+  "id": "rvFEGF",
+  "name": "Westmalle Extra",
+  "nameDisplay": "Westmalle Extra",
+  "description": "Hazy yellow with a frothy white head and good lacing. Aroma is very lemony with grains, mineral notes and herbal notes. Taste is also lemony (a little less than the aroma) with a good malt backbone, grains, coriander and herbal notes. Light\/medium body. Lively carbonation. Slightly dry finish. Nice and super refreshing Belgian Ale.",
+  "abv": "4.8",
+  "ibu": "30",
+  "glasswareId": 2,
+  "availableId": 1,
+  "styleId": 61,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/rvFEGF\/upload_rReYfp-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/rvFEGF\/upload_rReYfp-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/rvFEGF\/upload_rReYfp-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "servingTemperature": "cool",
+  "servingTemperatureDisplay": "Cool - (8-12C\/45-54F)",
+  "createDate": "2014-05-07 16:22:56",
+  "updateDate": "2014-05-08 11:43:13",
+  "glass": {
+    "id": 2,
+    "name": "Goblet",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "available": {
+    "id": 1,
+    "name": "Year Round",
+    "description": "Available year round as a staple beer."
+  },
+  "style": {
+    "id": 61,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Blonde Ale",
+    "shortName": "Belgian Blonde",
+    "description": "Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.",
+    "ibuMin": "15",
+    "ibuMax": "30",
+    "abvMin": "6",
+    "abvMax": "7.8",
+    "srmMin": "4",
+    "srmMax": "7",
+    "ogMin": "1.054",
+    "fgMin": "1.008",
+    "fgMax": "1.014",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:32:01"
+  }
+}, {
+  "id": "xsJWJ6",
+  "name": "Westmalle Trappist Dubbel",
+  "nameDisplay": "Westmalle Trappist Dubbel",
+  "description": "Westmalle Dubbel is a dark, reddish-brown Trappist beer with a secondary fermentation in the bottle. The creamy head has the fragrance of special malt and leaves an attractive lace pattern in the glass. The flavour is rich and complex, herby and fruity with a fresh-bitter finish. It is a balanced quality beer with a soft feel in the mouth and a long, dry aftertaste. The Dubbel contains 7% alcohol.",
+  "abv": "7",
+  "styleId": 58,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/xsJWJ6\/upload_JcsgMV-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/xsJWJ6\/upload_JcsgMV-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/xsJWJ6\/upload_JcsgMV-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2012-01-03 02:44:29",
+  "updateDate": "2014-11-19 16:24:27",
+  "style": {
+    "id": 58,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Dubbel",
+    "shortName": "Belgian Dubbel",
+    "description": "This medium-bodied, red to dark brown colored ale has a malty sweetness and chocolate-like caramel aroma. A light hop flavor and\/or aroma is acceptable. Dubbels are also characterized by low-medium to medium bitterness. No diacetyl is acceptable. Yeastgenerated fruity esters (especially banana) are appropriate at low levels. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Often bottle conditioned a slight yeast haze and flavor may be evident.",
+    "ibuMin": "20",
+    "ibuMax": "30",
+    "abvMin": "6.25",
+    "abvMax": "7.5",
+    "srmMin": "16",
+    "srmMax": "36",
+    "ogMin": "1.06",
+    "fgMin": "1.012",
+    "fgMax": "1.016",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:31:45"
+  }
+}, {
+  "id": "yuxw75",
+  "name": "Westmalle Trappist Tripel",
+  "nameDisplay": "Westmalle Trappist Tripel",
+  "description": "Was first brewed in 1934 and the recipe has not changed since 1956. It is made with pale candy sugar and has a very pale color produced from a mash of light pilsener malts. Styrian Goldings hops are used along with some German varieties and the classic Saaz pilsener hop. After a long secondary fermentation, the Tripel Westmalle is bottled with a dose of sugar and yeast. This beer holds up well in the bottle over time and seems to soften with age.",
+  "abv": "9.5",
+  "styleId": 59,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/yuxw75\/upload_C6JM2G-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/yuxw75\/upload_C6JM2G-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/yuxw75\/upload_C6JM2G-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2012-01-03 02:44:29",
+  "updateDate": "2015-07-01 14:05:45",
+  "style": {
+    "id": 59,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Tripel",
+    "shortName": "Belgian Tripel",
+    "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale\/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop\/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+    "ibuMin": "20",
+    "ibuMax": "45",
+    "abvMin": "7",
+    "abvMax": "10",
+    "srmMin": "4",
+    "srmMax": "9",
+    "ogMin": "1.07",
+    "fgMin": "1.01",
+    "fgMax": "1.018",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:31:50"
+  }
+}]

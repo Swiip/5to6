@@ -18,8 +18,13 @@ html {
   right: 0;
 }
 
+.banner.ng-anchor {
+  transition: .2s linear all;
+}
+
 .logo.ng-anchor {
   transition: .2s linear all;
+  z-index: 1000;
 }
 
 /**

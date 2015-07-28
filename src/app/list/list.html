@@ -10,12 +10,16 @@
   <md-content>
     <md-list>
       <md-list-item ng-repeat="brewery in list.breweries | filter:search">
-        <a ng-link="detail({id: brewery.id})">
-          <md-card style="position: relative;">
-            <img ng-src="assets/images/breweries/{{brewery.id}}.jpg" class="logo" ng-animate-ref="{{brewery.id}}">
-            <!--<img ng-src="assets/images/breweries/{{brewery.id}}-logo.png" style="position: absolute; top: 10px; right: 10px; height: 100px; width: 100px;">-->
-          </md-card>
-        </a>
+        <md-card style="position: relative;">
+          <a ng-link="detail({id: brewery.id})">
+            <img ng-src="assets/images/breweries/{{brewery.id}}-banner.jpg" class="banner" ng-animate-ref="{{brewery.id}}-banner">
+            <img ng-src="assets/images/breweries/{{brewery.id}}-logo.jpg" class="logo" ng-animate-ref="{{brewery.id}}-logo">
+          </a>
+          <md-card-content>
+            <h2 class="md-title">{{brewery.name}}</h2>
+            <p><a ng-href="{{brewery.website}}">{{brewery.website}}</a></p>
+          </md-card-content>
+        </md-card>
       </md-list-item>
     </md-list>
   </md-content>

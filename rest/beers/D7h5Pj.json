@@ -1,1 +1,334 @@
-[{"id":"qHBDmR","name":"Bi\u00e8re de Mars","nameDisplay":"Bi\u00e8re de Mars","abv":"7.5","availableId":5,"styleId":71,"isOrganic":"N","status":"verified","statusDisplay":"Verified","createDate":"2012-01-03 02:42:48","updateDate":"2015-04-30 18:56:22","available":{"id":5,"name":"Spring","description":"Available during the spring months."},"style":{"id":71,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"French-Style Bi\u00e8re de Garde","shortName":"Bi\u00e8re de Garde","description":"Beers in this category are golden to deep copper or light brown in color. They are light to medium in body. This style of beer is characterized by a toasted malt aroma, slight malt sweetness in flavor, and low to medium hop bitterness. Noble-type hop aromas and flavors should be low to medium. Fruity esters can be light to medium in intensity. Flavor of alcohol is evident. Earthy, cellarlike, musty aromas are okay. Diacetyl should not be perceived but chill haze is okay. Often bottle conditioned with some yeast character. French-Style Bi\u00e9re de Garde may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and\/or leather-like.","ibuMin":"20","ibuMax":"30","abvMin":"4.5","abvMax":"8","srmMin":"8","srmMax":"16","ogMin":"1.06","fgMin":"1.012","fgMax":"1.024","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:34:08"}},{"id":"DxSPd0","name":"Chouffe Bok 6666","nameDisplay":"Chouffe Bok 6666","description":"Chouffe Bok 6666 is a seasonal beer especially brewed for the Netherlands. The \"Bok\" type of beers traditionally appear on the Dutch market at the end of September. The Chouffe Bok 6666 is distinguished by its copper color, a fresh and fruity nose, pleasant roundness in the mouth that ends with a hint of bitterness.","abv":"6.7","availableId":7,"styleId":88,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/DxSPd0\/upload_65jKYN-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/DxSPd0\/upload_65jKYN-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/DxSPd0\/upload_65jKYN-large.png"},"status":"verified","statusDisplay":"Verified","foodPairings":"Chicken, pork tenderloin, lamb\r\nFennel, broccoli, asparagus\r\nMonkfish, tuna, mussels\r\nCoriander, chives, ginger","createDate":"2012-01-03 02:42:59","updateDate":"2015-04-30 18:52:23","available":{"id":7,"name":"Fall","description":"Available during the fall months."},"style":{"id":88,"categoryId":7,"category":{"id":7,"name":"European-germanic Lager","createDate":"2012-03-21 20:06:46"},"name":"Traditional German-Style Bock","shortName":"Bock","description":"Traditional bocks are made with all malt and are strong, malty, medium- to full-bodied, bottom-fermented beers with moderate hop bitterness that should increase proportionately with the starting gravity. Malt character should be a balance of sweetness and toasted\/nut-like malt; not caramel. Hop flavor should be low and hop aroma should be very low. Bocks can range in color from deep copper to dark brown. Fruity esters should be minimal. Diacetyl should be absent.","ibuMin":"20","ibuMax":"30","abvMin":"6.3","abvMax":"7.5","srmMin":"20","srmMax":"30","ogMin":"1.066","fgMin":"1.018","fgMax":"1.024","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:38:54"}},{"id":"B877T3","name":"Chouffe Soleil","nameDisplay":"Chouffe Soleil","abv":"6","glasswareId":5,"styleId":62,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/B877T3\/upload_psIQKh-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/B877T3\/upload_psIQKh-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/B877T3\/upload_psIQKh-large.png"},"status":"verified","statusDisplay":"Verified","createDate":"2012-01-03 02:42:59","updateDate":"2015-05-21 20:52:51","glass":{"id":5,"name":"Pint","createDate":"2012-01-03 02:41:33"},"style":{"id":62,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Pale Ale","shortName":"Belgian Pale","description":"Belgian-style pale ales are characterized by low but noticeable hop bitterness, flavor, and aroma. Light to medium body and low malt aroma are typical. They are light amber to deep amber in color. Noble-type hops are commonly used. Low to medium fruity esters are evident in aroma and flavor. Low levels of phenolic spiciness from yeast byproducts may be perceived. Low caramel or toasted malt flavor is okay. Diacetyl should not be perceived. Chill haze is allowable at cold temperatures.","ibuMin":"20","ibuMax":"30","abvMin":"4","abvMax":"6","srmMin":"6","srmMax":"12","ogMin":"1.044","fgMin":"1.008","fgMax":"1.014","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:32:06"}},{"id":"9AE30A","name":"Houblon Chouffe Ale","nameDisplay":"Houblon Chouffe Ale","description":"A unique marriage between the English tradition of IPAs, the new American revolution of Imperial IPAs and the classic Belgian way of brewing. Houblon Chouffe, although very much hopped as it is, showcases the unique balance between a very strong IPA and a very special Belgian Tripel exclusively created for this ale (Big malty body, distinct dryness, expressive estery fruitiness).","abv":"9","ibu":"59","glasswareId":5,"srmId":9,"availableId":1,"styleId":59,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/9AE30A\/upload_s7QFfZ-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/9AE30A\/upload_s7QFfZ-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/9AE30A\/upload_s7QFfZ-large.png"},"status":"verified","statusDisplay":"Verified","originalGravity":"1.092","createDate":"2012-01-03 02:43:26","updateDate":"2014-12-26 20:21:14","glass":{"id":5,"name":"Pint","createDate":"2012-01-03 02:41:33"},"srm":{"id":9,"name":"9","hex":"E58500"},"available":{"id":1,"name":"Year Round","description":"Available year round as a staple beer."},"style":{"id":59,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Tripel","shortName":"Belgian Tripel","description":"Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale\/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop\/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.","ibuMin":"20","ibuMax":"45","abvMin":"7","abvMax":"10","srmMin":"4","srmMax":"9","ogMin":"1.07","fgMin":"1.01","fgMax":"1.018","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:31:50"}},{"id":"LTLdF5","name":"La Chouffe","nameDisplay":"La Chouffe","description":"La Chouffe is an unfiltered blonde beer, which is re-fermented in the bottle as well as in the keg.  It is pleasantly fruity, spiced with coriander, and with a light hop taste.","abv":"8","glasswareId":5,"srmId":9,"availableId":1,"styleId":63,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/LTLdF5\/upload_kreIEw-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/LTLdF5\/upload_kreIEw-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/LTLdF5\/upload_kreIEw-large.png"},"status":"verified","statusDisplay":"Verified","servingTemperature":"cool","servingTemperatureDisplay":"Cool - (8-12C\/45-54F)","originalGravity":"1.065","createDate":"2012-01-03 02:43:34","updateDate":"2015-03-02 12:47:29","glass":{"id":5,"name":"Pint","createDate":"2012-01-03 02:41:33"},"srm":{"id":9,"name":"9","hex":"E58500"},"available":{"id":1,"name":"Year Round","description":"Available year round as a staple beer."},"style":{"id":63,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Belgian-Style Pale Strong Ale","shortName":"Belgian Pale Strong","description":"Belgian pale strong ales are pale to golden in color with relatively light body for a beer of its alcoholic strength. Often brewed with light colored Belgian \"candy\" sugar, these beers are well attenuated. The perception of hop bitterness is medium-low to medium -high, with hop flavor and aroma also in this range. These beers are highly attenuated and have a perceptively deceiving high alcoholic character-being light to medium bodied rather than full bodied. The intensity of malt character should be low to medium, often surviving along with a complex fruitiness. Very little or no diacetyl is perceived. Herbs and spices are sometimes used to delicately flavor these strong ales. Low levels of phenolic spiciness from yeast byproducts may also be perceived. Chill haze is allowable at cold temperatures.","ibuMin":"20","ibuMax":"50","abvMin":"7","abvMax":"11","srmMin":"4","srmMax":"10","ogMin":"1.064","fgMin":"1.012","fgMax":"1.024","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:32:16"}},{"id":"6pu0wD","name":"McChouffe","nameDisplay":"McChouffe","description":"Description : Dark Ale, strong, spicy, lightly hoppy, with evoluting taste. Natural Beer, bottle re fermented, unfiltered, not pasteurized and without any additives\r\n\r\nStorage : Store the bottles vertically in a cold place, sheltered from light. The yeast deposit can either be drunk or left according to taste","abv":"8.5","glasswareId":5,"styleId":70,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/6pu0wD\/upload_FLbpTj-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/6pu0wD\/upload_FLbpTj-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/6pu0wD\/upload_FLbpTj-large.png"},"status":"verified","statusDisplay":"Verified","createDate":"2012-01-03 02:43:41","updateDate":"2015-04-30 18:52:21","glass":{"id":5,"name":"Pint","createDate":"2012-01-03 02:41:33"},"style":{"id":70,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Other Belgian-Style Ales","shortName":"Belgian Ale","description":"Recognizing the uniqueness and traditions of several other styles of Belgian Ales, the beers entered in this category will be assessed on the merits that they do not fit existing style guidelines and information that the brewer provides explaining the history and tradition of the style. Balance of character is a key component when assessing these beers. Barrel or wood-aged entries in competitions may be directed to other categories by competition director. In competitions the brewer must provide the historical or regional tradition of the style, or his interpretation of the style, in order to be assessed properly by the judges.","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:33:05"}},{"id":"aCGZza","name":"N'Ice","nameDisplay":"N'Ice","description":"Artisanal Belgian Brown Limited Edition Ale","abv":"10","glasswareId":8,"availableId":2,"styleId":70,"isOrganic":"N","labels":{"icon":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/aCGZza\/upload_JHXfSU-icon.png","medium":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/aCGZza\/upload_JHXfSU-medium.png","large":"https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/aCGZza\/upload_JHXfSU-large.png"},"status":"verified","statusDisplay":"Verified","createDate":"2012-01-03 02:43:45","updateDate":"2015-04-30 18:52:25","glass":{"id":8,"name":"Tulip","createDate":"2012-01-03 02:41:33"},"available":{"id":2,"name":"Limited","description":"Limited availability."},"style":{"id":70,"categoryId":5,"category":{"id":5,"name":"Belgian And French Origin Ales","createDate":"2012-03-21 20:06:46"},"name":"Other Belgian-Style Ales","shortName":"Belgian Ale","description":"Recognizing the uniqueness and traditions of several other styles of Belgian Ales, the beers entered in this category will be assessed on the merits that they do not fit existing style guidelines and information that the brewer provides explaining the history and tradition of the style. Balance of character is a key component when assessing these beers. Barrel or wood-aged entries in competitions may be directed to other categories by competition director. In competitions the brewer must provide the historical or regional tradition of the style, or his interpretation of the style, in order to be assessed properly by the judges.","createDate":"2012-03-21 20:06:46","updateDate":"2015-04-07 15:33:05"}}]
+[{
+  "id": "qHBDmR",
+  "name": "Bi\u00e8re de Mars",
+  "nameDisplay": "Bi\u00e8re de Mars",
+  "abv": "7.5",
+  "availableId": 5,
+  "styleId": 71,
+  "isOrganic": "N",
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2012-01-03 02:42:48",
+  "updateDate": "2015-04-30 18:56:22",
+  "available": {
+    "id": 5,
+    "name": "Spring",
+    "description": "Available during the spring months."
+  },
+  "style": {
+    "id": 71,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "French-Style Bi\u00e8re de Garde",
+    "shortName": "Bi\u00e8re de Garde",
+    "description": "Beers in this category are golden to deep copper or light brown in color. They are light to medium in body. This style of beer is characterized by a toasted malt aroma, slight malt sweetness in flavor, and low to medium hop bitterness. Noble-type hop aromas and flavors should be low to medium. Fruity esters can be light to medium in intensity. Flavor of alcohol is evident. Earthy, cellarlike, musty aromas are okay. Diacetyl should not be perceived but chill haze is okay. Often bottle conditioned with some yeast character. French-Style Bi\u00e9re de Garde may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and\/or leather-like.",
+    "ibuMin": "20",
+    "ibuMax": "30",
+    "abvMin": "4.5",
+    "abvMax": "8",
+    "srmMin": "8",
+    "srmMax": "16",
+    "ogMin": "1.06",
+    "fgMin": "1.012",
+    "fgMax": "1.024",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:34:08"
+  }
+}, {
+  "id": "DxSPd0",
+  "name": "Chouffe Bok 6666",
+  "nameDisplay": "Chouffe Bok 6666",
+  "description": "Chouffe Bok 6666 is a seasonal beer especially brewed for the Netherlands. The \"Bok\" type of beers traditionally appear on the Dutch market at the end of September. The Chouffe Bok 6666 is distinguished by its copper color, a fresh and fruity nose, pleasant roundness in the mouth that ends with a hint of bitterness.",
+  "abv": "6.7",
+  "availableId": 7,
+  "styleId": 88,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/DxSPd0\/upload_65jKYN-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/DxSPd0\/upload_65jKYN-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/DxSPd0\/upload_65jKYN-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "foodPairings": "Chicken, pork tenderloin, lamb\r\nFennel, broccoli, asparagus\r\nMonkfish, tuna, mussels\r\nCoriander, chives, ginger",
+  "createDate": "2012-01-03 02:42:59",
+  "updateDate": "2015-04-30 18:52:23",
+  "available": {
+    "id": 7,
+    "name": "Fall",
+    "description": "Available during the fall months."
+  },
+  "style": {
+    "id": 88,
+    "categoryId": 7,
+    "category": {
+      "id": 7,
+      "name": "European-germanic Lager",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Traditional German-Style Bock",
+    "shortName": "Bock",
+    "description": "Traditional bocks are made with all malt and are strong, malty, medium- to full-bodied, bottom-fermented beers with moderate hop bitterness that should increase proportionately with the starting gravity. Malt character should be a balance of sweetness and toasted\/nut-like malt; not caramel. Hop flavor should be low and hop aroma should be very low. Bocks can range in color from deep copper to dark brown. Fruity esters should be minimal. Diacetyl should be absent.",
+    "ibuMin": "20",
+    "ibuMax": "30",
+    "abvMin": "6.3",
+    "abvMax": "7.5",
+    "srmMin": "20",
+    "srmMax": "30",
+    "ogMin": "1.066",
+    "fgMin": "1.018",
+    "fgMax": "1.024",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:38:54"
+  }
+}, {
+  "id": "B877T3",
+  "name": "Chouffe Soleil",
+  "nameDisplay": "Chouffe Soleil",
+  "abv": "6",
+  "glasswareId": 5,
+  "styleId": 62,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/B877T3\/upload_psIQKh-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/B877T3\/upload_psIQKh-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/B877T3\/upload_psIQKh-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2012-01-03 02:42:59",
+  "updateDate": "2015-05-21 20:52:51",
+  "glass": {
+    "id": 5,
+    "name": "Pint",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "style": {
+    "id": 62,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Pale Ale",
+    "shortName": "Belgian Pale",
+    "description": "Belgian-style pale ales are characterized by low but noticeable hop bitterness, flavor, and aroma. Light to medium body and low malt aroma are typical. They are light amber to deep amber in color. Noble-type hops are commonly used. Low to medium fruity esters are evident in aroma and flavor. Low levels of phenolic spiciness from yeast byproducts may be perceived. Low caramel or toasted malt flavor is okay. Diacetyl should not be perceived. Chill haze is allowable at cold temperatures.",
+    "ibuMin": "20",
+    "ibuMax": "30",
+    "abvMin": "4",
+    "abvMax": "6",
+    "srmMin": "6",
+    "srmMax": "12",
+    "ogMin": "1.044",
+    "fgMin": "1.008",
+    "fgMax": "1.014",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:32:06"
+  }
+}, {
+  "id": "9AE30A",
+  "name": "Houblon Chouffe Ale",
+  "nameDisplay": "Houblon Chouffe Ale",
+  "description": "A unique marriage between the English tradition of IPAs, the new American revolution of Imperial IPAs and the classic Belgian way of brewing. Houblon Chouffe, although very much hopped as it is, showcases the unique balance between a very strong IPA and a very special Belgian Tripel exclusively created for this ale (Big malty body, distinct dryness, expressive estery fruitiness).",
+  "abv": "9",
+  "ibu": "59",
+  "glasswareId": 5,
+  "srmId": 9,
+  "availableId": 1,
+  "styleId": 59,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/9AE30A\/upload_s7QFfZ-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/9AE30A\/upload_s7QFfZ-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/9AE30A\/upload_s7QFfZ-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "originalGravity": "1.092",
+  "createDate": "2012-01-03 02:43:26",
+  "updateDate": "2014-12-26 20:21:14",
+  "glass": {
+    "id": 5,
+    "name": "Pint",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "srm": {
+    "id": 9,
+    "name": "9",
+    "hex": "E58500"
+  },
+  "available": {
+    "id": 1,
+    "name": "Year Round",
+    "description": "Available year round as a staple beer."
+  },
+  "style": {
+    "id": 59,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Tripel",
+    "shortName": "Belgian Tripel",
+    "description": "Tripels are often characterized by a complex, sometimes mild spicy character. Clove-like phenolic flavor and aroma may be evident at extremely low levels. Yeast-generated  fruity esters, including banana, are also common, but not necessary. These pale\/light-colored ales may finish sweet, though any sweet finish should be light. The beer is characteristically medium and clean in body with an equalizing hop\/malt balance and a perception of medium to medium high hop bitterness. Traditional Belgian Tripels are often well attenuated. Brewing sugar may be used to lighten the perception of body. Its sweetness will come from very pale malts. There should not be character from any roasted or dark malts. Low hop flavor is acceptable. Alcohol strength and flavor should be perceived as evident. Head retention is dense and mousse-like. Chill haze is acceptable at low serving temperatures. Traditional Tripels are bottle conditioned, may exhibit slight yeast haze but the yeast should not be intentionally roused. Oxidative character if evident in aged Tripels should be mild and pleasant.",
+    "ibuMin": "20",
+    "ibuMax": "45",
+    "abvMin": "7",
+    "abvMax": "10",
+    "srmMin": "4",
+    "srmMax": "9",
+    "ogMin": "1.07",
+    "fgMin": "1.01",
+    "fgMax": "1.018",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:31:50"
+  }
+}, {
+  "id": "LTLdF5",
+  "name": "La Chouffe",
+  "nameDisplay": "La Chouffe",
+  "description": "La Chouffe is an unfiltered blonde beer, which is re-fermented in the bottle as well as in the keg.  It is pleasantly fruity, spiced with coriander, and with a light hop taste.",
+  "abv": "8",
+  "glasswareId": 5,
+  "srmId": 9,
+  "availableId": 1,
+  "styleId": 63,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/LTLdF5\/upload_kreIEw-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/LTLdF5\/upload_kreIEw-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/LTLdF5\/upload_kreIEw-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "servingTemperature": "cool",
+  "servingTemperatureDisplay": "Cool - (8-12C\/45-54F)",
+  "originalGravity": "1.065",
+  "createDate": "2012-01-03 02:43:34",
+  "updateDate": "2015-03-02 12:47:29",
+  "glass": {
+    "id": 5,
+    "name": "Pint",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "srm": {
+    "id": 9,
+    "name": "9",
+    "hex": "E58500"
+  },
+  "available": {
+    "id": 1,
+    "name": "Year Round",
+    "description": "Available year round as a staple beer."
+  },
+  "style": {
+    "id": 63,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Belgian-Style Pale Strong Ale",
+    "shortName": "Belgian Pale Strong",
+    "description": "Belgian pale strong ales are pale to golden in color with relatively light body for a beer of its alcoholic strength. Often brewed with light colored Belgian \"candy\" sugar, these beers are well attenuated. The perception of hop bitterness is medium-low to medium -high, with hop flavor and aroma also in this range. These beers are highly attenuated and have a perceptively deceiving high alcoholic character-being light to medium bodied rather than full bodied. The intensity of malt character should be low to medium, often surviving along with a complex fruitiness. Very little or no diacetyl is perceived. Herbs and spices are sometimes used to delicately flavor these strong ales. Low levels of phenolic spiciness from yeast byproducts may also be perceived. Chill haze is allowable at cold temperatures.",
+    "ibuMin": "20",
+    "ibuMax": "50",
+    "abvMin": "7",
+    "abvMax": "11",
+    "srmMin": "4",
+    "srmMax": "10",
+    "ogMin": "1.064",
+    "fgMin": "1.012",
+    "fgMax": "1.024",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:32:16"
+  }
+}, {
+  "id": "6pu0wD",
+  "name": "McChouffe",
+  "nameDisplay": "McChouffe",
+  "description": "Description : Dark Ale, strong, spicy, lightly hoppy, with evoluting taste. Natural Beer, bottle re fermented, unfiltered, not pasteurized and without any additives\r\n\r\nStorage : Store the bottles vertically in a cold place, sheltered from light. The yeast deposit can either be drunk or left according to taste",
+  "abv": "8.5",
+  "glasswareId": 5,
+  "styleId": 70,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/6pu0wD\/upload_FLbpTj-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/6pu0wD\/upload_FLbpTj-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/6pu0wD\/upload_FLbpTj-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2012-01-03 02:43:41",
+  "updateDate": "2015-04-30 18:52:21",
+  "glass": {
+    "id": 5,
+    "name": "Pint",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "style": {
+    "id": 70,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Other Belgian-Style Ales",
+    "shortName": "Belgian Ale",
+    "description": "Recognizing the uniqueness and traditions of several other styles of Belgian Ales, the beers entered in this category will be assessed on the merits that they do not fit existing style guidelines and information that the brewer provides explaining the history and tradition of the style. Balance of character is a key component when assessing these beers. Barrel or wood-aged entries in competitions may be directed to other categories by competition director. In competitions the brewer must provide the historical or regional tradition of the style, or his interpretation of the style, in order to be assessed properly by the judges.",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:33:05"
+  }
+}, {
+  "id": "aCGZza",
+  "name": "N'Ice",
+  "nameDisplay": "N'Ice",
+  "description": "Artisanal Belgian Brown Limited Edition Ale",
+  "abv": "10",
+  "glasswareId": 8,
+  "availableId": 2,
+  "styleId": 70,
+  "isOrganic": "N",
+  "labels": {
+    "icon": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/aCGZza\/upload_JHXfSU-icon.png",
+    "medium": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/aCGZza\/upload_JHXfSU-medium.png",
+    "large": "https:\/\/s3.amazonaws.com\/brewerydbapi\/beer\/aCGZza\/upload_JHXfSU-large.png"
+  },
+  "status": "verified",
+  "statusDisplay": "Verified",
+  "createDate": "2012-01-03 02:43:45",
+  "updateDate": "2015-04-30 18:52:25",
+  "glass": {
+    "id": 8,
+    "name": "Tulip",
+    "createDate": "2012-01-03 02:41:33"
+  },
+  "available": {
+    "id": 2,
+    "name": "Limited",
+    "description": "Limited availability."
+  },
+  "style": {
+    "id": 70,
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "name": "Belgian And French Origin Ales",
+      "createDate": "2012-03-21 20:06:46"
+    },
+    "name": "Other Belgian-Style Ales",
+    "shortName": "Belgian Ale",
+    "description": "Recognizing the uniqueness and traditions of several other styles of Belgian Ales, the beers entered in this category will be assessed on the merits that they do not fit existing style guidelines and information that the brewer provides explaining the history and tradition of the style. Balance of character is a key component when assessing these beers. Barrel or wood-aged entries in competitions may be directed to other categories by competition director. In competitions the brewer must provide the historical or regional tradition of the style, or his interpretation of the style, in order to be assessed properly by the judges.",
+    "createDate": "2012-03-21 20:06:46",
+    "updateDate": "2015-04-07 15:33:05"
+  }
+}]
