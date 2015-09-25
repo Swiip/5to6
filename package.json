@@ -6,7 +6,9 @@
     "angular-animate": "^1.4.3",
     "angular-aria": "^1.4.3",
     "angular-material": "^0.10.0",
-    "angular-new-router": "^0.5.3"
+    "angular-new-router": "^0.5.3",
+    "angular-touch": "^1.4.6",
+    "animate.css": "^3.4.0"
   },
   "scripts": {
     "test": "gulp test"
@@ -40,7 +42,7 @@
     "gulp-replace": "~0.5.0",
     "gulp-rev": "~3.0.1",
     "gulp-rev-replace": "~0.3.1",
-    "gulp-sass": "~1.3.0",
+    "gulp-sass": "~2.0.4",
     "gulp-size": "~1.2.0",
     "gulp-sourcemaps": "~1.3.0",
     "gulp-uglify": "~1.1.0",
