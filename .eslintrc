@@ -1,6 +1,5 @@
 {
   "parser": "babel-eslint",
-  "plugins": [ "angular" ],
   "env": {
     "browser": true,
     "node": false,
