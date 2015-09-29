@@ -40,6 +40,12 @@
 				background-color: white;
 			}
 
+			html .reveal pre code {
+				font-size: 24px;
+				line-height: 30px;
+				max-height: 500px;
+			}
+
 			.reveal img.tada {
 				height: 64px;
 				vertical-align: middle;
@@ -48,7 +54,11 @@
 
 			.reveal img.logo {
 				height: 50px;
-				//min-width: 50px;
+				background-color: white;
+			}
+
+			.reveal img.big-logo {
+				height: 100px;
 				background-color: white;
 			}
 		</style>
@@ -91,7 +101,7 @@
 						<img src="img/tada.png" class="tada"> Version 1.0.0 <img src="img/tada.png" class="tada">
 					</h3>
 					<p>
-						<img src="img/gulp.png" class="logo" style="max-width:100%;">
+						<img src="img/gulp-logo.png" class="logo" style="max-width:100%;">
 						<img src="img/angular.png" class="logo" style="max-width:100%;">
 						<img src="img/bootstrap.png" class="logo" style="max-width:100%;">
 						<img src="img/materialdesign.png" class="logo" style="max-width:100%;">
@@ -105,7 +115,7 @@
 						<img src="img/protractor.png" class="logo" style="max-width:100%;">
 					</p>
 					<p>
-						<img src="img/babel.png" class="logo" style="max-width:100%;">
+						<img src="img/babel-logo.png" class="logo" style="max-width:100%;">
 						<img src="img/coffeescript.png" class="logo" style="max-width:100%;">
 						<img src="img/typescript.png" class="logo" style="max-width:100%;">
 						<img src="img/traceur.png" class="logo" style="max-width:100%;">
@@ -157,38 +167,49 @@
 
 				<section>
 					<h2>Traceur</h2>
+					<img src="img/traceur-logo.png" style="background-color: white;">
 				</section>
 
 				<section>
 					<h2>Babel</h2>
 					<h3>Anciennement 6to5</h3>
+					<img src="img/babel-logo.png" style="background-color: white;">
 				</section>
 
 				<section>
 					<h2>Babel plugins</h2>
-					<ul>
+					<!-- <ul>
 						<li>Grunt</li>
 						<li>Gulp</li>
 						<li>Browserify</li>
 						<li>Webpack</li>
 						<li>ESLint</li>
 						<li>Babel Node</li>
-					</ul>
+					</ul> -->
+					<p>
+						<img src="img/grunt-logo.png" class="big-logo">
+						<img src="img/gulp-logo.png" class="big-logo">
+						<img src="img/browserify-logo.png" class="big-logo">
+						<img src="img/webpack-logo.png" class="big-logo">
+						<img src="img/eslint-logo.png" class="big-logo">
+						<img src="img/nodejslogo.png" class="big-logo">
+					</p>
+					<p>Et bien d'autres...</p>
 				</section>
 
 				<section>
 					<h2>Et sans précompilation ?</h2>
-					<img src="img/compat.png">
+					<img src="img/compat.png" style="height: 500px">
 				</section>
 
-				<section>
+				<section data-background-image="img/biere.jpg" style="background-color: rgba(0, 0, 0, .6);">
 					<h2>L'appli</h2>
 					<ul>
+						<li>Generator Gulp Angular simplifié</li>
 						<li>Angular</li>
 						<li>Angular Material</li>
 						<li>Angular New Router</li>
 						<li>ES5</li>
-						<li>Generator Gulp Angular simplifié</li>
 					</ul>
 				</section>
 
@@ -502,7 +523,7 @@ var it = foo();
 console.log( it.next() ); // { value:1, done:false }
 console.log( it.next() ); // { value:2, done:false }
 console.log( it.next() ); // { value:3, done:false }
-console.log( it.next() ); // { value: undefined, done: true }
+console.log( it.next() ); // { value:undefined, done:true }
 					</code></pre>
 				</section>
 
@@ -643,6 +664,7 @@ foo(...[0, 1, 2]); // => 3
 					<h2>The End</h2>
 					<h3>Merci !</h3>
 					<h3>Matthieu Lux<br><a href="https://twitter.com/Swiip">@Swiip</a></h3>
+					<img src="img/swiip.jpg" style="height: 100px;">
 				</section>
 			</div>
 
