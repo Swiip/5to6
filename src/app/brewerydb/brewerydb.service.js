@@ -1,12 +1,8 @@
 (function() {
   'use strict';
 
-  angular
-    .module('5to6')
-    .factory('breweryService', breweryService);
-
   /** @ngInject */
-  function breweryService($q, $log, $http) {
+  function BreweryService($q, $log, $http) {
     var breweryHost = '/brewerydb';
 
     var service = {
@@ -24,13 +20,19 @@
     }
 
     function getOne(id, callback) {
+      var result;
       $http.get(breweryHost + '/breweries/' + id).then(function(resultBrewery) {
         $http.get(breweryHost + '/breweries/' + id + '/beers').then(function(resultBeers) {
-          var result = resultBrewery.data;
+          result = resultBrewery.data;
           result.beers = resultBeers.data;
           callback(result);
         });
       });
     }
   }
+
+  angular
+    .module('5to6')
+    .factory('BreweryService', BreweryService);
+
 })();

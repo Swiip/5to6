@@ -13,7 +13,10 @@ function webpack(watch, callback) {
     watch: watch,
     module: {
       preLoaders: [{ test: /\.js$/, exclude: /node_modules/, loader: 'eslint-loader'}],
-      loaders: [{ test: /\.js$/, exclude: /node_modules/, loader: 'babel-loader'}]
+      loaders: [{ test: /\.js$/, exclude: /node_modules/, loader: 'babel-loader', query: {
+        optional: ['runtime'],
+        stage: 1
+      }}]
     },
     output: { filename: 'index.js' }
   };

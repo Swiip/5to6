@@ -2,18 +2,18 @@
   'use strict';
 
   /** @ngInject */
-  function ListController($q, breweryService) {
+  function ListController($q, BreweryService) {
     var vm = this;
 
     vm.$q = $q;
-    vm.breweryService = breweryService;
+    vm.BreweryService = BreweryService;
   }
 
   ListController.prototype.canActivate = function() {
     var vm = this;
 
     return vm.$q(function(resolve) {
-      return vm.breweryService.getList(function(breweries) {
+      return vm.BreweryService.getList(function(breweries) {
         vm.breweries = breweries;
         resolve();
       });

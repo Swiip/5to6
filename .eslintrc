@@ -29,7 +29,8 @@
 
 
 
-    /*"no-var": 2,*/
-    /*"angular/ng_controller_as_vm": 2*/
+    "no-var": 0,
+    "angular/ng_controller_as_vm": 0,
+    "strict": 0
   }
 }

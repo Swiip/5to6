@@ -2,19 +2,19 @@
   'use strict';
 
   /** @ngInject */
-  function DetailController($q, $routeParams, breweryService) {
+  function DetailController($q, $routeParams, BreweryService) {
     var vm = this;
 
     vm.$q = $q;
     vm.$routeParams = $routeParams;
-    vm.breweryService = breweryService;
+    vm.BreweryService = BreweryService;
   }
 
   DetailController.prototype.canActivate = function() {
     var vm = this;
 
     return vm.$q(function(resolve) {
-      return vm.breweryService.getOne(vm.$routeParams.id, function(brewery) {
+      return vm.BreweryService.getOne(vm.$routeParams.id, function(brewery) {
         vm.brewery = brewery;
         resolve();
       });

@@ -4,6 +4,7 @@
   angular
     .module('5to6')
     .config(routerConfig)
+    .config(materialConfig)
     .controller('AppController', AppController);
 
   /** @ngInject */
@@ -22,6 +23,15 @@
       { path: '/detail', component: 'detail' },
       { path: '/detail/:id', component: 'detail' }
     ]);
+  }
+
+  function materialConfig($mdThemingProvider) {
+    $mdThemingProvider.theme('default')
+      .primaryPalette('grey')
+      .accentPalette('red');
+    $mdThemingProvider.theme('dark')
+      .primaryPalette('red')
+      .accentPalette('grey');
   }
 
 })();
