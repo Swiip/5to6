@@ -8,7 +8,8 @@
     "angular-material": "^0.10.0",
     "angular-new-router": "^0.5.3",
     "angular-touch": "^1.4.6",
-    "animate.css": "^3.4.0"
+    "animate.css": "^3.4.0",
+    "co": "^4.6.0"
   },
   "scripts": {
     "test": "gulp test"
