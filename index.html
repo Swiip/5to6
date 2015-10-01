@@ -481,7 +481,7 @@ promise.then((response) => {
 						</code></pre>
 					</section>
 
-					<section>
+					<!-- <section>
 						<h2>Promesses - API</h2>
 						<pre><code data-trim class="javascript">
 // Callback
@@ -494,7 +494,7 @@ function request(options) {
   return xhr(options);
 }
 						</code></pre>
-					</section>
+					</section> -->
 
 					<section>
 						<h2>Promesses - Chaînage</h2>
@@ -564,7 +564,7 @@ function *fibonacci() {
 					</code></pre>
 				</section> -->
 
-				<section>
+				<!-- <section>
 					<h2>Generators + Promesses !</h2>
 					<pre><code data-trim class="javascript">
 function *async() {
@@ -583,7 +583,7 @@ ret.value.then((response) => {
   // do something
 });
 						</code></pre>
-					</section>
+					</section> -->
 
 					<section>
 						<h2>Generators - co</h2>
@@ -601,6 +601,17 @@ function co(g) {
     }
   })();
 }
+						</code></pre>
+					</section>
+
+					<section>
+						<h2>Generators - co</h2>
+						<pre><code data-trim class="javascript">
+co(function *() {
+  yield xhr(options1);
+  yield xhr(options2);
+  yield xhr(options3);
+});
 						</code></pre>
 					</section>
 
