@@ -61,6 +61,16 @@
 				height: 100px;
 				background-color: white;
 			}
+
+			.reveal img.parisweb {
+				background-color: white;
+				height: 150px;
+			}
+
+			.reveal img.unicorn {
+				background-color: white;
+				height: 150px;
+			}
 		</style>
 	</head>
 
@@ -71,7 +81,9 @@
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
 				<section>
+					<img src="img/logo-parisweb.png" class="parisweb">
 					<h1>ES6 par le code</h1>
+					<img src="img/unicorn.png" class="unicorn">
 				</section>
 
 				<section>
@@ -132,74 +144,79 @@
 				</section>
 
 				<section>
-					<h2>Rapide historique</2>
+					<section>
+						<h2>Rapide historique</2>
+					</section>
+
+					<section>
+						<ul>
+							<li>1996 Netscape lance JavaScript</li>
+							<li>1996 Netscape le soumet à l'ECMA</li>
+							<li>1997 ECMAScript 1</li>
+							<li>1998 ECMAScript 2</li>
+							<li>1999 ECMAScript 3</li>
+							<li>ECMAScript 4 abandonné</li>
+							<li>2009 ECMAScript 5</li>
+							<li>2015 ECMAScript 6 Harmony</li>
+							<li>WIP ECMAScript 7</li>
+						</ul>
+					</section>
+
+					<section>
+						<h2>TC39</h2>
+						<h3><a href="https://github.com/tc39">https://github.com/tc39</a></h3>
+						<h3><a href="https://esdiscuss.org/">https://esdiscuss.org/</a></h3>
+					</section>
+
+					<section>
+						<!-- <h2>Standard ECMA-262</h2>
+						<h3>ECMAScript® 2015 Language Specification</h3>
+						<h3>6th edition (June 2015)</h3> -->
+						<img src="img/ecma.png" style="height: 600px;">
+					</section>
 				</section>
 
 				<section>
-					<ul>
-						<li>1996 Netscape lance JavaScript</li>
-						<li>1996 Netscape le soumet à l'ECMA</li>
-						<li>1997 ECMAScript 1</li>
-						<li>1998 ECMAScript 2</li>
-						<li>1999 ECMAScript 3</li>
-						<li>ECMAScript 4 abandonné</li>
-						<li>2009 ECMAScript 5</li>
-						<li>2015 ECMAScript 6 Harmony</li>
-						<li>WIP ECMAScript 7</li>
-					</ul>
-				</section>
+					<section>
+						<h2>Outillage</h2>
+					</section>
 
-				<section>
-					<h2>TC39</h2>
-					<h3><a>https://github.com/tc39</a></h3>
-				</section>
+					<section>
+						<h2>Traceur</h2>
+						<img src="img/traceur-logo.png" style="background-color: white; height: 300px;">
+					</section>
 
-				<section>
-					<!-- <h2>Standard ECMA-262</h2>
-					<h3>ECMAScript® 2015 Language Specification</h3>
-					<h3>6th edition (June 2015)</h3> -->
-					<img src="img/ecma.png" style="height: 600px;">
-				</section>
+					<section>
+						<h2>Babel</h2>
+						<h3>Anciennement 6to5</h3>
+						<img src="img/babel-logo.png" style="background-color: white; height: 300px;">
+					</section>
 
-				<section>
-					<h2>Outillage</h2>
-				</section>
+					<section>
+						<h2>Babel plugins</h2>
+						<!-- <ul>
+							<li>Grunt</li>
+							<li>Gulp</li>
+							<li>Browserify</li>
+							<li>Webpack</li>
+							<li>ESLint</li>
+							<li>Babel Node</li>
+						</ul> -->
+						<p>
+							<img src="img/grunt-logo.png" class="big-logo">
+							<img src="img/gulp-logo.png" class="big-logo">
+							<img src="img/browserify-logo.png" class="big-logo">
+							<img src="img/webpack-logo.png" class="big-logo">
+							<img src="img/eslint-logo.png" class="big-logo">
+							<img src="img/nodejslogo.png" class="big-logo">
+						</p>
+						<p>Et bien d'autres...</p>
+					</section>
 
-				<section>
-					<h2>Traceur</h2>
-					<img src="img/traceur-logo.png" style="background-color: white;">
-				</section>
-
-				<section>
-					<h2>Babel</h2>
-					<h3>Anciennement 6to5</h3>
-					<img src="img/babel-logo.png" style="background-color: white;">
-				</section>
-
-				<section>
-					<h2>Babel plugins</h2>
-					<!-- <ul>
-						<li>Grunt</li>
-						<li>Gulp</li>
-						<li>Browserify</li>
-						<li>Webpack</li>
-						<li>ESLint</li>
-						<li>Babel Node</li>
-					</ul> -->
-					<p>
-						<img src="img/grunt-logo.png" class="big-logo">
-						<img src="img/gulp-logo.png" class="big-logo">
-						<img src="img/browserify-logo.png" class="big-logo">
-						<img src="img/webpack-logo.png" class="big-logo">
-						<img src="img/eslint-logo.png" class="big-logo">
-						<img src="img/nodejslogo.png" class="big-logo">
-					</p>
-					<p>Et bien d'autres...</p>
-				</section>
-
-				<section>
-					<h2>Et sans précompilation ?</h2>
-					<img src="img/compat.png" style="height: 500px">
+					<section>
+						<h2>Et sans précompilation ?</h2>
+						<img src="img/compat.png" style="height: 500px">
+					</section>
 				</section>
 
 				<section data-background-image="img/biere.jpg" style="background-color: rgba(0, 0, 0, .6);">
@@ -214,12 +231,13 @@
 				</section>
 
 				<section>
-					<h2>Les incontournables</h2>
-				</section>
+					<section>
+						<h2>Les incontournables</h2>
+					</section>
 
-				<section>
-					<h2>let</h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>let</h2>
+						<pre><code data-trim class="javascript">
 if (true) {
   var foo = 1;
   let bar = 2;
@@ -229,12 +247,12 @@ console.log(foo);
 // 1
 console.log(bar);
 // ReferenceError: bar is not defined
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>const</h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>const</h2>
+						<pre><code data-trim class="javascript">
 var foo = 1;
 const bar = 2;
 
@@ -242,27 +260,29 @@ foo = 3;
 // foo === 3
 bar = 4;
 // Line 6: "bar" is read-only
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>string</h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>string</h2>
+						<pre><code data-trim class="javascript">
 const foo = "string with double quote";
 const bar = 'string with simple quote';
 const fooBar = `string with back tick!
 multiline!!
-with interpolation ${foo} ${bar}`
-					</code></pre>
+with interpolation ${foo} ${bar}`;
+						</code></pre>
+					</section>
 				</section>
 
 				<section>
-					<h2>Des classes en JavaScript ?</h2>
-				</section>
+					<section>
+						<h2>Des classes en JavaScript ?</h2>
+					</section>
 
-				<section>
-					<h2>class</h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>class</h2>
+						<pre><code data-trim class="javascript">
 class Foo {
   constructor() {
     console.log('constructor');
@@ -272,12 +292,12 @@ class Foo {
     console.log('bar');
   }
 }
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>class</h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>class</h2>
+						<pre><code data-trim class="javascript">
 var Foo = (function () {
   function Foo() {
     //(...)
@@ -290,12 +310,12 @@ var Foo = (function () {
 
   return Foo;
 })();
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>=></h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>=></h2>
+						<pre><code data-trim class="javascript">
 let foo = (arg1, arg2) => {
   console.log('foo called', arg1, arg2);
 };
@@ -308,12 +328,12 @@ foo(1); // foo called 1
 
 foo = onlyOneArg => onlyOneArg + 1;
 console.log(foo(1)); // 2
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>=></h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>=></h2>
+						<pre><code data-trim class="javascript">
 class Foo {
   constructor() {
     this.values = [1, 2, 3, 4, 5];
@@ -324,16 +344,18 @@ class Foo {
     });
   }
 }
-					</code></pre>
+						</code></pre>
+					</section>
 				</section>
 
 				<section>
-					<h2>Modularisation !</h2>
-				</section>
+					<section>
+						<h2>Modularisation !</h2>
+					</section>
 
-				<section>
-					<h2>modules</h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>modules</h2>
+						<pre><code data-trim class="javascript">
 // foo.js
 export const foo = 42;
 export const log = console.log;
@@ -341,13 +363,13 @@ export const log = console.log;
 // bar.js
 import foo from './foo';
 foo.log(foo.foo); // => 42
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>destructuration</h2>
-					<pre><code data-trim class="javascript">
-let[a, b] = [1, 2];
+					<section>
+						<h2>destructuration</h2>
+						<pre><code data-trim class="javascript">
+let [a, b] = [1, 2];
 console.log(a, b); //=> 1 2
 
 var foo = () => [1, 2, 3];
@@ -360,12 +382,12 @@ console.log(x); // => 5
 
 var { prop, prop2 } = {prop: 5, prop2: 10};
 console.log(prop, prop2); // => 5 10
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>module + destructuration</h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>module + destructuration</h2>
+						<pre><code data-trim class="javascript">
 // foo.js
 export const foo = 42;
 export const log = console.log;
@@ -373,16 +395,16 @@ export const log = console.log;
 // bar.js
 import { foo, log } from './foo';
 log(foo); // => 42
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>Utiliser des modules ES6 en 2015</h2>
-				</section>
+					<section>
+						<h2>Utiliser des modules ES6 en 2015</h2>
+					</section>
 
-				<section>
-					<h3>CommonJS (Webpack / Browserify)</h3>
-					<!-- <pre><code data-trim class="javascript">
+					<section>
+						<h3>CommonJS (Webpack / Browserify)</h3>
+						<!-- <pre><code data-trim class="javascript">
 // foo.js
 export const foo = 42;
 // bar.js
@@ -404,45 +426,47 @@ var foo = require('./foo').foo;
   }
 ]);
 					</code></pre> -->
-					<ul>
-						<li>Utilisation des modules ES6</li>
-						<li>&darr; Babel avec option CommonJS &darr;</li>
-						<li>Base de code en CommonJS</li>
-						<li>&darr; Webpack ou Browserify &darr;</li>
-						<li>Bundle (fichier) utilisable dans un navigateur</li>
-					</ul>
+						<ul>
+							<li>Utilisation des modules ES6</li>
+							<li>&darr; Babel avec option CommonJS &darr;</li>
+							<li>Base de code en CommonJS</li>
+							<li>&darr; Webpack ou Browserify &darr;</li>
+							<li>Bundle (fichier) utilisable dans un navigateur</li>
+						</ul>
+					</section>
+
+					<section>
+						<h3>SystemJS</h3>
+						<ul>
+							<li>Autant que possible le polyfill du chargement des modules</li>
+							<li>Babel a également une option SystemJS</li>
+							<li>Charge en asynchrone les dépendances des modules</li>
+							<li>Fonctionnalité de bundle pour le prod</li>
+							<li>JSPM permet de gérer les dépendance externes</li>
+						</ul>
+					</section>
+
+					<section>
+						<h3>Natif ?</h3>
+						<ul>
+							<li>Aucun navigateur ne le supporte</li>
+							<li>Arrivée de la balise <code class="html">&lt;module&gt;</code></li>
+							<li>Remplace avantageusement la balise <code class="html">&lt;script&gt;</code></li>
+							<li>Sera lié au déploiement d'HTTP2</li>
+							<li><a href="http://www.2ality.com/2013/11/es6-modules-browsers.html">http://www.2ality.com/2013/11/es6-modules-browsers.html</a></li>
+						</ul>
+					</section>
 				</section>
 
 				<section>
-					<h3>SystemJS</h3>
-					<ul>
-						<li>API ES5 qui reproduit les fonctionnalité ES5</li>
-						<li>Babel a également une option SystemJS</li>
-						<li>Charge en asynchrone les dépendances des modules</li>
-						<li>Fonctionnalité de bundle pour le prod</li>
-						<li>JSPM permet de gérer les dépendance externes</li>
-					</ul>
-				</section>
+					<section>
+						<h2>Asynchrone</h2>
+					</section>
 
-				<section>
-					<h3>Natif ?</h3>
-					<ul>
-						<li>Aucun navigateur ne le supporte</li>
-						<li>Arrivée de la balise <code class="html">&lt;module&gt;</code></li>
-						<li>Remplace avantageusement la balise <code class="html">&lt;script&gt;</code></li>
-						<li>Sera lié au déploiement d'HTTP2</li>
-						<li><a href="http://www.2ality.com/2013/11/es6-modules-browsers.html">http://www.2ality.com/2013/11/es6-modules-browsers.html</a></li>
-					</ul>
-				</section>
-
-				<section>
-					<h2>Asynchrone</h2>
-				</section>
-
-				<section>
-					<h2>Promesses</h2>
-					<!-- <h3>Un objet qui représente la promesse d'avoir une valeur de retour... plus tard.</h3> -->
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>Promesses</h2>
+						<!-- <h3>Un objet qui représente la promesse d'avoir une valeur de retour... plus tard.</h3> -->
+						<pre><code data-trim class="javascript">
 // Callback
 xhr(options, (response) => {
   // do something
@@ -454,12 +478,12 @@ const promise = xhr(option);
 promise.then((response) => {
   // do something
 });
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>Promesses - API</h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>Promesses - API</h2>
+						<pre><code data-trim class="javascript">
 // Callback
 function request(options, callback) {
   xhr(options, callback);
@@ -469,13 +493,13 @@ function request(options, callback) {
 function request(options) {
   return xhr(options);
 }
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>Promesses - Chaînage</h2>
-					<!-- <h3>Ou plutôt encapsulation</h3> -->
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>Promesses - Chaînage</h2>
+						<!-- <h3>Ou plutôt encapsulation</h3> -->
+						<pre><code data-trim class="javascript">
 // Callback
 xhr(options1, (response) => {
   xhr(options2, (response) => {
@@ -493,12 +517,12 @@ xhr(options1).then((response) => {
 }).then((response) => {
   // do something
 });
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>Promesses - Création</h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>Promesses - Création</h2>
+						<pre><code data-trim class="javascript">
 const promise = new Promise(function (resolve, reject) {
   /*...*/
   if (/*...*/) {
@@ -507,12 +531,12 @@ const promise = new Promise(function (resolve, reject) {
     reject(reason); // failure
   }
 });
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>Generators</h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>Generators</h2>
+						<pre><code data-trim class="javascript">
 function *foo() {
   yield 1;
   yield 2;
@@ -524,12 +548,12 @@ console.log( it.next() ); // { value:1, done:false }
 console.log( it.next() ); // { value:2, done:false }
 console.log( it.next() ); // { value:3, done:false }
 console.log( it.next() ); // { value:undefined, done:true }
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>Generators - fibonacci</h2>
-					<pre><code data-trim class="javascript">
+					<!-- <section>
+						<h2>Generators - fibonacci</h2>
+						<pre><code data-trim class="javascript">
 function *fibonacci() {
   let [prev, curr] = [0, 1];
   while(true) {
@@ -538,10 +562,10 @@ function *fibonacci() {
   }
 }
 					</code></pre>
-				</section>
+				</section> -->
 
 				<section>
-					<h2>Generators - Promesses !</h2>
+					<h2>Generators + Promesses !</h2>
 					<pre><code data-trim class="javascript">
 function *async() {
   yield xhr(options1);
@@ -558,12 +582,12 @@ ret.value.then((response) => {
 }).then((response) => {
   // do something
 });
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>Generators - co</h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>Generators - co</h2>
+						<pre><code data-trim class="javascript">
 // Pseudo code, without any checks
 function co(g) {
   var it = g(), ret;
@@ -577,35 +601,37 @@ function co(g) {
     }
   })();
 }
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>Async functions</h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>Async functions</h2>
+						<pre><code data-trim class="javascript">
 async function foo() {
   await xhr(options1);
   await xhr(options2);
   await xhr(options3);
 }
-					</code></pre>
+						</code></pre>
+					</section>
 				</section>
 
 				<section>
-					<h2>Le reste</h2>
-					<!-- <ul>
-						- for-of
-						- parameters default value
-						- rest/spread parameters
-						- Map / Set & Co
-						- Typed Arrays
-						- Object
-					</ul> -->
-				</section>
+					<section>
+						<h2>Le reste</h2>
+						<!-- <ul>
+							- for-of
+							- parameters default value
+							- rest/spread parameters
+							- Map / Set & Co
+							- Typed Arrays
+							- Object
+						</ul> -->
+					</section>
 
-				<section>
-					<h2>for ... of</h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>for ... of</h2>
+						<pre><code data-trim class="javascript">
 let arr = [3, 5, 7];
 arr.foo = "hello";
 
@@ -616,12 +642,12 @@ for (let i in arr) {
 for (let i of arr) {
    console.log(i); // => 3 5 7
 }
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>Valeurs par défaut</h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>Valeurs par défaut</h2>
+						<pre><code data-trim class="javascript">
 function multiplier(a, b = 1) {
   return a * b;
 }
@@ -633,12 +659,12 @@ function f(x=1, y) {
 }
 
 f(); // => [1, undefined]
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>rest & spread</h2>
-					<pre><code data-trim class="javascript">
+					<section>
+						<h2>rest & spread</h2>
+						<pre><code data-trim class="javascript">
 function foo(...args) {
   console.log(args.length);
 }
@@ -647,23 +673,25 @@ foo();  // => 0
 foo(5); // => 1
 foo(5, 6, 7); // => 3
 foo(...[0, 1, 2]); // => 3
-					</code></pre>
-				</section>
+						</code></pre>
+					</section>
 
-				<section>
-					<h2>Extensions des APIs</h2>
-					<ul>
-						<li>Object</li>
-						<li>Map</li>
-						<li>Set</li>
-						<li>Math</li>
-					</ul>
+					<section>
+						<h2>Extensions des APIs</h2>
+						<ul>
+							<li>Object</li>
+							<li>Map</li>
+							<li>Set</li>
+							<li>Math</li>
+						</ul>
+					</section>
 				</section>
 
 				<section>
 					<h2>The End</h2>
+					<h3><a href="https://github.com/Swiip/5to6">https://github.com/Swiip/5to6</a></h3>
 					<h3>Merci !</h3>
-					<h3>Matthieu Lux<br><a href="https://twitter.com/Swiip">@Swiip</a></h3>
+					<h4>Matthieu Lux<br><a href="https://twitter.com/Swiip">@Swiip</a></h4>
 					<img src="img/swiip.jpg" style="height: 100px;">
 				</section>
 			</div>
