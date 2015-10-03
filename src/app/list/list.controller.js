@@ -1,27 +1,16 @@
-(function() {
-  'use strict';
-
+export class ListController {
   /** @ngInject */
-  function ListController($q, BreweryService) {
-    var vm = this;
-
-    vm.$q = $q;
-    vm.BreweryService = BreweryService;
+  constructor($q, BreweryService) {
+    this.$q = $q;
+    this.BreweryService = BreweryService;
   }
 
-  ListController.prototype.canActivate = function() {
-    var vm = this;
-
-    return vm.$q(function(resolve) {
-      return vm.BreweryService.getList(function(breweries) {
-        vm.breweries = breweries;
+  canActivate() {
+    return this.$q((resolve) => {
+      return this.BreweryService.getList((breweries) => {
+        this.breweries = breweries;
         resolve();
       });
     });
-  };
-
-  angular
-    .module('5to6')
-    .controller('ListController', ListController);
-
-})();
+  }
+}

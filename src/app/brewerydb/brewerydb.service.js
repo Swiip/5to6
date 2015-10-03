@@ -1,38 +1,27 @@
-(function() {
-  'use strict';
-
+export class BreweryService {
   /** @ngInject */
-  function BreweryService($q, $log, $http) {
-    var breweryHost = '/brewerydb';
+  constructor($q, $log, $http) {
+    this.breweryHost = '/brewerydb';
 
-    var service = {
-      breweryHost: breweryHost,
-      getList: getList,
-      getOne: getOne
-    };
-
-    return service;
-
-    function getList(callback) {
-      $http.get(breweryHost + '/breweries').then(function(result) {
-        callback(result.data);
-      });
-    }
-
-    function getOne(id, callback) {
-      var result;
-      $http.get(breweryHost + '/breweries/' + id).then(function(resultBrewery) {
-        $http.get(breweryHost + '/breweries/' + id + '/beers').then(function(resultBeers) {
-          result = resultBrewery.data;
-          result.beers = resultBeers.data;
-          callback(result);
-        });
-      });
-    }
+    this.$q = $q;
+    this.$log = $log;
+    this.$http = $http;
   }
 
-  angular
-    .module('5to6')
-    .factory('BreweryService', BreweryService);
+  getList(callback) {
+    this.$http.get(this.breweryHost + '/breweries').then((result) => {
+      callback(result.data);
+    });
+  }
 
-})();
+  getOne(id, callback) {
+    let result;
+    this.$http.get(this.breweryHost + '/breweries/' + id).then((resultBrewery) => {
+      this.$http.get(this.breweryHost + '/breweries/' + id + '/beers').then((resultBeers) => {
+        result = resultBrewery.data;
+        result.beers = resultBeers.data;
+        callback(result);
+      });
+    });
+  }
+}
