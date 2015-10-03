@@ -8,4 +8,8 @@ The `master` branch is the code base in ES5.
 
 In the `es6` branch, you'll find the code transformed in ES6 with Babel.
 
-In the branch `gh-pages` there will be the slides.
+In the `parisweb` branch, you'll find the exact code I wrote on stage at Paris Web.
+
+In the branch `slides` and `gh-pages` there will be the slides.
+
+You can find slides online at http://swiip.github.io/5to6/
